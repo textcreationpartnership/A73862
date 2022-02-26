@@ -1,0 +1,2855 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Moyses in a map of his miracles. By Michael Drayton Esquire</title>
+            <author>Drayton, Michael, 1563-1631.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1604</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 132 KB of XML-encoded text transcribed from 53 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73862</idno>
+            <idno type="STC">STC 7209</idno>
+            <idno type="STC">ESTC S234</idno>
+            <idno type="EEBO-CITATION">99898401</idno>
+            <idno type="PROQUEST">99898401</idno>
+            <idno type="VID">173391</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73862)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 173391)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2039:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Moyses in a map of his miracles. By Michael Drayton Esquire</title>
+                  <author>Drayton, Michael, 1563-1631.</author>
+               </titleStmt>
+               <extent>[8], 89, [3] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Humfrey Lownes, and are to be sold by Thomas Man the younger,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1604.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>The first leaf is blank except for signature-mark "[par.]"; the last leaf is blank.</note>
+                  <note>Running title reads: The map of miracle.</note>
+                  <note>Copy filmed at UMI microfilm Early English Books, Tract Supplement reel E4 has title page only.</note>
+                  <note>Reproduction of original in the Bodleian Library, Oxford, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Moses --  (Biblical leader) --  Poetry --  Early works to 1800.</term>
+               <term>Bible. --  O.T. --  Exodus --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:173391:1" rendition="simple:additions"/>
+            <pb facs="tcp:173391:1"/>
+            <pb facs="tcp:173391:2"/>
+            <pb facs="tcp:173391:2"/>
+            <pb facs="tcp:173391:3" rendition="simple:additions"/>
+            <pb facs="tcp:173391:3" rendition="simple:additions"/>
+            <p>
+               <hi>MOYSES</hi> IN A MAP OF his Miracles.</p>
+            <p>¶ By <hi>Michael Drayton</hi> ESQVIRE.</p>
+            <p>AT LONDON Printed by Humfrey Lownes, and are to be ſold by Thomas Man the Younger. 1604.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:173391:4"/>
+            <pb facs="tcp:173391:4"/>
+            <head>TO MY ESTEEMED PATRON SIR <hi>Walter Aston,</hi> Knight of the Honourable Order of the Bathe.</head>
+            <lg>
+               <l>
+                  <hi>
+                     <seg rend="decorInit">A</seg>Lthough our ſundry (yet our ſacred) flames,</hi>
+               </l>
+               <l>
+                  <hi>Worke diuers and as contrarie effects:</hi>
+               </l>
+               <l>
+                  <hi>Yet then your owne, we ſeeke not other names,</hi>
+               </l>
+               <l>
+                  <hi>Nor ſtranger arches our free</hi> Muſe <hi>erects.</hi>
+               </l>
+               <l>
+                  <hi>Though limmitleſſe be (naturally) our loue,</hi>
+               </l>
+               <l>
+                  <hi>We can her powers officiouſlie confine:</hi>
+               </l>
+               <l>
+                  <hi>Who can inſtruct her orderly to moue,</hi>
+               </l>
+               <l>
+                  <hi>And keepe the compaſſe wiſely we aſsigne.</hi>
+               </l>
+               <l>
+                  <hi>To take our faire leaue (till that ampler times</hi>
+               </l>
+               <l>
+                  <hi>Some glorious obiect ſtrongly may beget)</hi>
+               </l>
+               <l>
+                  <hi>We make you tender of theſe hallowed rimes</hi>
+               </l>
+               <l>
+                  <hi>The vertuous payment of a worthier debt.</hi>
+               </l>
+               <l>
+                  <hi>Till to our names that monument we reare,</hi>
+               </l>
+               <l>
+                  <hi>That ſteele and marble vnto duſt ſhall weare.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>MICHAEL DRAYTON.</signed>
+            </closer>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:173391:5"/>
+            <head>To him that will read this Booke.</head>
+            <p>
+               <seg rend="decorInit">R</seg>Eader, to thee that wilt not ſeeme too wiſe, nor art too ſingular, I thinke it not amiſſe in the behalfe of my Poem (to humble my ſelfe thus farre) the better to prepare thy opinion in the ſame: and to tell thee briefely, that whatſoeuer we haue from Hiſtorie, as from <hi>Ioſephus, Lyra,</hi> or others of leſſe authoritie: we vſe rather as Iems and exteriour ornaments to beautifie our Subiect, than any way to mixe the ſame, with the ſolide bodie of that which is Canonicall and ſacred. Though chuſing rather to ſuite and polliſh it with the colours and rarities of thoſe ancient Writers that haue attended ſo long the worthines and anti<g ref="char:EOLhyphen"/>quitie thereof, than with any other habiliments of inuenti<g ref="char:EOLhyphen"/>on or Poeſie, ſhould they ſeeme neuer ſo delightfull, &amp; not diſagreeing from the ſtate &amp; dignitie of ſo ſacred a Subiect as this is of ours. Thoſe that haue accompanied vs in this kinde, is that Reuerende <hi>Hierony: Vida</hi> his <hi>Chriſteis,</hi> conteyning the life and miracles of <hi>Chriſt,</hi> that hath beene, and is, generally receiued through Chriſtendome (and verie worthily.) <hi>Buchanan</hi> his Tragedie of <hi>Iephtha</hi> in ano<g ref="char:EOLhyphen"/>ther kinde, and <hi>Bartas</hi> his <hi>Iudeth.</hi> I could deriue thee a Ca<g ref="char:EOLhyphen"/>talogue of their like, though I cite theſe onely for the va<g ref="char:EOLhyphen"/>rieties. Thus requeſting thee in reading to correct ſome fewe faultes that haue chanced to eſcape in the Preſſe, I bid thee farewell.</p>
+         </div>
+         <div type="encomium">
+            <pb facs="tcp:173391:5"/>
+            <head>To this Poem.</head>
+            <lg>
+               <l>SEe how ingrate forgetfulneſſe</l>
+               <l>Cireles vs round with dangers,</l>
+               <l>That all the Saints whom God doth highly bleſſe,</l>
+               <l>To vs are ſtrangers.</l>
+               <l>Now Heau'n into our ſoules inſpires</l>
+               <l>No true caeleſtiall motions:</l>
+               <l>Luſts ardent flame hath dimm'd the holy fires</l>
+               <l>Of our deuotions.</l>
+               <l>While gainſt blaſphemers gen'rall ſpight</l>
+               <l>Our painfull Author ſtriueth,</l>
+               <l>And happy Spirits which liue in heauenly light</l>
+               <l>On Earth reuiueth.</l>
+               <l>Thou Patriark great, who with milde lookes</l>
+               <l>His lab'ring <hi>Muſe</hi> beholdeſt:</l>
+               <l>Reach him thoſe leaues where thou in ſacred bookes</l>
+               <l>All truth vnfoldeſt:</l>
+               <l>And guide (like <hi>Iſrael</hi>) Poets hands</l>
+               <l>From <hi>Aegypt,</hi> from vaine Stories,</l>
+               <l>Onely to ſing of the faire promiſ'd lands,</l>
+               <l>And all the glories.</l>
+            </lg>
+            <closer>
+               <signed>IOHN BEAVMONT.</signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>Ad Michaelem Draytonem.</head>
+            <lg>
+               <l>
+                  <hi>DVm reluctantem</hi> Pharium IEHOVAE</l>
+               <l>Drayton, <hi>et fractum canis, et rubentes</hi>
+               </l>
+               <l>
+                  <hi>Diuidis fluctus, equites reducta et</hi>
+               </l>
+               <l>
+                  <hi>obruis vnda:</hi>
+               </l>
+               <l>
+                  <hi>Instruis quanto monumenta niſu?</hi>
+               </l>
+               <l>
+                  <hi>Quam ſacra nomen tibi creſcit aede?</hi>
+               </l>
+               <l>
+                  <hi>Pyramis cedit peritura: cedit</hi>
+               </l>
+               <l>
+                  <hi>tota<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Memphis,</hi>
+               </l>
+               <l>
+                  <hi>Cedit, et quicquid poſuere reges</hi>
+               </l>
+               <l>
+                  <hi>Molibus fiſi nimium ſuperbis.</hi>
+               </l>
+               <l>
+                  <hi>O ſacer vatis labor: a rapaci</hi>
+               </l>
+               <l>
+                  <hi>tempore tutus.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>BEALE SAPPERTON.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb facs="tcp:173391:6"/>
+            <head>To the Honourable Knight Sir Walter Aston.</head>
+            <lg>
+               <l>FRom humble Sheepcoates, to Loues bow and fires:</l>
+               <l>Thence to the armes of Kings, and grieued Peeres:</l>
+               <l>Now to the great <hi>Iehouahs</hi> acts aſpires</l>
+               <l>(Faire Sir) your Poets pen: your nobleſſe cheeres</l>
+               <l>His mounting <hi>Muſe:</hi> and with ſo worthy hand</l>
+               <l>Applaudes her flight, as nothing ſhe will leaue</l>
+               <l>Aboue the top, whereon ſhe makes her ſtand,</l>
+               <l>So high bright Honour learned Spirits can heaue.</l>
+               <l>Such luſtre lends the Poets polliſht verſe</l>
+               <l>Vnto Nobility, as after-times</l>
+               <l>Shall thinke, there Patrons vertues they rehearſe,</l>
+               <l>When vertuous men they Caracter in rimes.</l>
+               <l>You raiſe his thoughts, with full deſire of fame:</l>
+               <l>Amongſt <hi>Heroes</hi> he enroles your name.</l>
+            </lg>
+            <closer>
+               <signed>Yours <hi>BEALE SAPPERTON.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="encomium">
+            <head>To M. Michael Drayton.</head>
+            <lg>
+               <l>THy noble <hi>Muſe</hi> already hath beene ſpred</l>
+               <l>Through <hi>Europe</hi> and the Sunne-ſcorch'd Southerne climes,</l>
+               <l>That Ile where <hi>Saturnes</hi> royall Sonne was bred,</l>
+               <l>Hath beene enricht with thy immortall rimes:</l>
+               <l>Euen to the burnt line haue thy poems ſlowne,</l>
+               <l>And gain'd high ſame in the declining Weſt,</l>
+               <l>And or'e that colde Sea ſhall thy name be blowne,</l>
+               <l>That Icie mountaines rowleth on her breſt:</l>
+               <l>Her ſoaring hence ſo farre made me admire,</l>
+               <l>Whither at length thy worthy <hi>Muſe</hi> would flie,</l>
+               <l>Borne through the tender ayre with wings of fire,</l>
+               <l>Able to lift her to the ſtarrie skie:</l>
+               <l>This worke reſolu'd my doubts, when th'earths repleate.</l>
+               <l>With her faire fruite, in Heau'n ſhee'le take her ſeate.</l>
+            </lg>
+            <closer>
+               <signed>THOMAS ANDREWE. <hi>Ex arduis eternitas.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="1" type="book">
+            <pb n="1" facs="tcp:173391:6"/>
+            <head>The Map of Miracle. <hi>THE FIRST BOOKE.</hi>
+            </head>
+            <lg>
+               <head>¶ THE ARGVMENT.</head>
+               <l>
+                  <hi>This Canto our attracted Muſe</hi>
+               </l>
+               <l>
+                  <hi>The Prophets glorious birth purſues,</hi>
+               </l>
+               <l>
+                  <hi>The various changes of his fate,</hi>
+               </l>
+               <l>
+                  <hi>From humblenes to high estate,</hi>
+               </l>
+               <l>
+                  <hi>His beautie, more than mortall ſhape,</hi>
+               </l>
+               <l>
+                  <hi>From</hi> Egypt <hi>how he doth eſcape,</hi>
+               </l>
+               <l>
+                  <hi>By his faire bearing in his flight,</hi>
+               </l>
+               <l>
+                  <hi>Obtaines the louely</hi> Midianite,</l>
+               <l>
+                  <hi>Where God vnto the Hebrew ſpake,</hi>
+               </l>
+               <l>
+                  <hi>Appearing from the burning brake,</hi>
+               </l>
+               <l>
+                  <hi>And backe doth him to</hi> Egypt <hi>ſend,</hi>
+               </l>
+               <l>
+                  <hi>That mighty things doth there intend.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">G</seg>Irt in bright flames, rapt fro<g ref="char:cmbAbbrStroke">̄</g> celeſtiall fire,</l>
+               <l>That our vnwearied faculties refine,</l>
+               <l>By zeale tranſported boldly we aſpire</l>
+               <pb facs="tcp:173391:7"/>
+               <l>To ſing a ſubiect gloriouſlie diuine:</l>
+               <l>Him that of mortalls only had the grace,</l>
+               <l>(On who<g ref="char:cmbAbbrStroke">̄</g> the Spirit did in ſuch power deſcend)</l>
+               <l>To talke with God face oppoſite to face,</l>
+               <l>Euen as a man with his familiar frend.</l>
+               <l>
+                  <hi>Muſe</hi> I inuoke the vtmoſt of thy might,</l>
+               <l>That with an armed and auſpitious wing,</l>
+               <l>Thou be obſequious in his doubtleſſe right</l>
+               <l>Gainſt the vile Athieſts vituperious ſting:</l>
+               <l>Where thou that gate induſtriouſly mai'ſt flie,</l>
+               <l>Which Nature ſtriues but fainedlie to goe,</l>
+               <l>Borne by a power ſo eminent and hie,</l>
+               <l>As in his courſe leaues reaſon farre belowe,</l>
+               <l>To ſhew how Poeſie (ſimplie hath her praiſe)</l>
+               <l>That from full <hi>Joue</hi> takes her celeſtiall birth,</l>
+               <l>And quicke as fire, her glorious ſelfe can raiſe</l>
+               <l>Aboue this baſe and euitable earth.</l>
+               <l>O if that <hi>Time</hi> haue happily reſeru'd,</l>
+               <l>(Beſides that ſacred and canonicke writ,</l>
+               <l>What once in ſlates &amp; barks of trees was keru'd)</l>
+               <l>Thing that our <hi>Muſes</hi> grauitie may ſit,</l>
+               <l>Vnclaſp the worlds great Regiſter to mee,</l>
+               <l>That ſmokie ruſt hath verie neere defac'd,</l>
+               <l>That I in thoſe dim Characters may ſee,</l>
+               <l>From common eyes that hath aſide beene caſt.</l>
+               <l>And thou Tranſlator of that faithfull Muſe</l>
+               <pb n="3" facs="tcp:173391:7"/>
+               <l>This ALLS creation that diuinely ſong,
+<note place="margin">Bartas.</note>
+               </l>
+               <l>From Courtly <hi>French</hi> (no trauaile do'ſt refuſe)</l>
+               <l>To make him Maiſter of thy <hi>Genuin</hi> tong,</l>
+               <l>
+                  <hi>Salust</hi> to thee and <hi>Siluester</hi> thy frend,</l>
+               <l>Comes my high Poem peaceable and chaſte,</l>
+               <l>Your hallow'd labours humblie to attend</l>
+               <l>That wrackfull <hi>Time</hi> ſhall not haue power to waſte.</l>
+               <l>A gallant Hebrew (in the height of life)</l>
+               <l>
+                  <hi>Amram</hi> a Leuite honourablie bred,</l>
+               <l>Of the ſame offspring wan a beautious wife,</l>
+               <l>And no leſſe vertuous, goodly <hi>Jacobed:</hi>
+               </l>
+               <l>So fitlie pair'd that (without all oſtent)</l>
+               <l>Euen of the wiſe it hardly could be ſaid</l>
+               <l>Which of the two was moſt preheminent,</l>
+               <l>Or he more honour'd, or ſhe more obayd,</l>
+               <l>In both was found that liuelihood and meetnes,</l>
+               <l>By which affection any way was mou'd:</l>
+               <l>In him that ſhape, in her there was that ſweetnes,</l>
+               <l>Might make him lik'd or her to be belou'd:</l>
+               <l>As this commixtion, ſo their maried mind</l>
+               <l>Their good corrected, or their ill releeu'd,</l>
+               <l>As trulie louing as diſcreetlie kinde,</l>
+               <l>Mutuallie ioy'd, as mutuallie greeu'd:</l>
+               <l>Their nuptiall bed by abſtinence maintain'd,</l>
+               <l>Yet ſtill gaue fewell to Loues ſacred fire,</l>
+               <l>And when fruition plentifulli'ſt gain'd,</l>
+               <pb facs="tcp:173391:8"/>
+               <l>Yet were they chaſte in fulnes of deſire.</l>
+               <l>Now grieued <hi>Jſrael</hi> manie a wofull day,</l>
+               <l>That at their vile ſeruilitie repin'd,</l>
+               <l>Preſs'd with the burdens of rude boiſt'rous clay,</l>
+               <l>By ſterne Egyptian tyrannie aſſign'd:</l>
+               <l>Yet ſtill the more the Hebrewes are oppreſt</l>
+               <l>Like the Frim ſeede they fructifie the more</l>
+               <l>That by th'eternall prouidence fore-bleſt,</l>
+               <l>
+                  <hi>Goſhen</hi> giues roomth but ſcantly to their ſtore.</l>
+               <l>And the wiſe Midwiues in their naturall neede,</l>
+               <l>That the faire males immediatly ſhould kill,</l>
+               <l>Hating ſ'abhord, and Heatheniſh a deede,</l>
+               <l>Check his harſh brutenes and rebellious will</l>
+               <l>That ſmall effect perceauing by the ſame,</l>
+               <l>Bids the men-children (greatly that abound)</l>
+               <l>After that day into the world that came,</l>
+               <l>Vpon their birth ſhould inſtantly be drownd.</l>
+               <l>And now the time come had bin long foretold,</l>
+               <l>He ſhould be borne vnto the Hebrewes ioy,
+<note place="margin">Ioſephus <hi>de. Ant. Iud.</hi>
+                  </note>
+               </l>
+               <l>VVhoſe puiſſant hand ſuch fatall power ſhould hold,</l>
+               <l>As in ſhort time all <hi>Egipt</hi> ſhould deſtroy.</l>
+               <l>The execution which more ſtrongly forc'd,</l>
+               <l>And euery where ſo generally done,</l>
+               <l>As in ſmall time vnnaturally diuorc'd,</l>
+               <l>Many a deare Mother and as deare a ſonne.</l>
+               <l>Though her chaſt boſom that faire Altar weare,</l>
+               <pb n="5" facs="tcp:173391:8"/>
+               <l>Where Loues pure vowes he dutifully pay'd,</l>
+               <l>His Armes to her a Sanctuarie deare,</l>
+               <l>Yet they ſo much his tyrannie obay'd,</l>
+               <l>By free conſent to ſeparate their bed,</l>
+               <l>Better at all no Children yet to haue,</l>
+               <l>Tha<g ref="char:cmbAbbrStroke">̄</g> their deare loue ſhould procreate the dead,</l>
+               <l>Vntimely iſſue for a timeleſſe graue.</l>
+               <l>When in a viſion whil'ſt he ſlept by night,</l>
+               <l>God bids him ſo not <hi>Jacobed</hi> to leaue,</l>
+               <l>The man that <hi>Egipt</hi> did ſo much affright,</l>
+               <l>Her pregnant womb ſhould happily conceaue.</l>
+               <l>Soone after finding that ſhe was with child,</l>
+               <l>The ſame conceales by all the meanes ſhe can,</l>
+               <l>Leſt by th'apparance ſhe might be beguild,</l>
+               <l>If in the birth it prou'd to be a man.</l>
+               <l>The time ſhe goes till her accompt was nie,</l>
+               <l>Her ſwelling bellie no conception ſhowes,</l>
+               <l>Nor at the time of her deliuerie,
+<note place="margin">Ioſeph.</note>
+               </l>
+               <l>As other women panged in her throwes.</l>
+               <l>Whe<g ref="char:cmbAbbrStroke">̄</g> lo the faire fruit of that proſpering wombe</l>
+               <l>Wounds the kinde parents in their prime of ioy,</l>
+               <l>VVhoſe birth pronounceth his too timeleſſe doombe</l>
+               <l>Accuſ'd by Nature, forming it a boy:</l>
+               <l>Yet tis ſo ſweet, ſo amiably faire,</l>
+               <l>That their pleaſ'd eies with rapture it behold,</l>
+               <l>The glad-ſad parents full of ioy and care</l>
+               <pb facs="tcp:173391:9"/>
+               <l>Faine would reſerue their Infant if they could,</l>
+               <l>And ſtill they tempt the ſundrie varying howers,</l>
+               <l>Hopes and deſpaires together ſtrangely mixt,</l>
+               <l>Diſtaſting ſweets with many cordiall ſowers,</l>
+               <l>Oppoſed interchangeably betwixt.</l>
+               <l>If ought it ayl'd or hapleſlie it cride,</l>
+               <l>Vnheard of any that ſhe might it keepe,</l>
+               <l>With one ſhort breath ſhe did intreate &amp; chide,</l>
+               <l>And in a moment ſhe did ſing and weepe.</l>
+               <l>Three lab'ring monthes them flatterer-like be<g ref="char:EOLhyphen"/>guild,</l>
+               <l>And danger ſtill redoubling as it laſts,</l>
+               <l>Suſpecting moſt the ſafety of the Child,</l>
+               <l>Thus the kinde Mother carefully forecaſts:</l>
+               <l>(For at three monthes a ſcrutinie was held,</l>
+               <l>And ſerchers then ſent euery where about,</l>
+               <l>That in that time if any were conceal'd,</l>
+               <l>They ſhould make proofe &amp; ſtraitly bring them out.</l>
+               <l>To <hi>Pharoes</hi> will ſhe awfullie muſt bowe,</l>
+               <l>And therefore haſtens to abridge theſe feares,</l>
+               <l>And to the flood determines it ſhall goe,</l>
+               <l>Yet e're it went ſhee'll drowne it with her teares.</l>
+               <l>This afternoone Loue bids a little ſtay,</l>
+               <l>And yet theſe pauſes doe but lengthen ſorrowe,</l>
+               <l>But for one night although ſhe make delay,</l>
+               <l>She vowes to goe vnto his death to morrowe.</l>
+               <l>The morning come, it is too early yet,</l>
+               <pb n="7" facs="tcp:173391:9"/>
+               <l>The day ſo faſt not haſt'ning on his date,</l>
+               <l>The gloomie Euening murther beſt doth fit,</l>
+               <l>The Euening come and then it is too late.</l>
+               <l>Her prettie Infant lying on her lap</l>
+               <l>With his ſweet eies her thretning rage beguiles,</l>
+               <l>For yet he playes, and dallies with his pap,</l>
+               <l>To mocke her ſorrowes with his am'rous ſmiles,</l>
+               <l>And laugh'd, &amp; chuck'd, &amp; ſpred the prety hands</l>
+               <l>When her full hart was at the point to breake,</l>
+               <l>(This little Creature yet not vnderſtands</l>
+               <l>The woful language mothers teares did ſpeake.)</l>
+               <l>Wherewith ſurpriz'd and with a parents loue,</l>
+               <l>From his faire eies ſhe doth freſh courage take,</l>
+               <l>And Natures lawes alowing doth reproue,</l>
+               <l>The fraile Edicts that mortall Princes make.</l>
+               <l>It ſhal not die, ſhe'll keepe her Child vnknowne</l>
+               <l>And come the worſt in ſpight of <hi>Pharoes</hi> rage,</l>
+               <l>As it is hers, ſhe will diſpoſe her owne,</l>
+               <l>And if't muſt, it'ſt die at riper age.</l>
+               <l>And thus reuoluing of her frailties care,</l>
+               <l>A thouſand ſtra<g ref="char:cmbAbbrStroke">̄</g>ge thoughts throug her troubled minde,</l>
+               <l>Sounding the dangers deeply what they are,</l>
+               <l>Betwixt the lawes of crueltie and kinde.</l>
+               <l>But it muſt die, and better yet to part,</l>
+               <l>Since preordain'd to this diſaſt'rous fate,</l>
+               <l>His want will ſit the neerer to the hart</l>
+               <pb facs="tcp:173391:10"/>
+               <l>In riper and more flouriſhing eſtate.</l>
+               <l>The perfect husband whoſe impreſſiue ſoule,</l>
+               <l>Tooke true proportion of each penſiue throw,</l>
+               <l>Yet had ſuch power his paſſion to controule,</l>
+               <l>As not the ſame immediatly to ſhow.</l>
+               <l>With carriage full of comlines and grace,</l>
+               <l>As griefe not felt nor ſorrowe ſeem'd to lacke,</l>
+               <l>Courage and feare ſo temp'red in his face,</l>
+               <l>Thus his beloued <hi>Jacobed</hi> beſpake.</l>
+               <l>Dere hart be patient, ſtay theſe timeleſſe teares,</l>
+               <l>Death of thy Son ſhal neuer quite bereaue thee,</l>
+               <l>My ſoule with thine, that equall burthen beares,</l>
+               <l>As what he takes, my Loue again ſhal giue thee:</l>
+               <l>For <hi>Jſraels</hi> ſinne if <hi>Jſraels</hi> ſeed muſt ſuffer,</l>
+               <l>And we of meere neceſſitie muſt leaue him,</l>
+               <l>Pleaſe yet to grace me with this gentle offer,</l>
+               <l>Giue him to me by who<g ref="char:cmbAbbrStroke">̄</g> thou didſt co<g ref="char:cmbAbbrStroke">̄</g>ceaue him.</l>
+               <l>So though thou with ſo deare a iewell part,</l>
+               <l>This yet remaineth laſtly to relieue thee,</l>
+               <l>Thou haſt impoſ'd this hind'rance on my hart,</l>
+               <l>Anothers loſſe ſhal need the leſſe to grieue thee,</l>
+               <l>Nor are we Hebrewes abiect by our name,</l>
+               <l>Though thus in <hi>Egipt</hi> hatefully deſpiſed,</l>
+               <l>That we that bleſſing fruitleſlie ſhould claime</l>
+               <l>Once in that holy Couenant compriſed,</l>
+               <l>It is not fit Mortalitie ſhould knowe</l>
+               <pb n="9" facs="tcp:173391:10"/>
+               <l>What his eternall prouidence decreed,</l>
+               <l>That vnto <hi>Abraham</hi> ratifi'd the vowe</l>
+               <l>In happie <hi>Sara</hi> and her hallowed ſeed,</l>
+               <l>Nor ſhall the wrong to godly <hi>Joſeph</hi> done</l>
+               <l>In his remembrance euer be enrould,</l>
+               <l>By <hi>Iacobs</hi> ſighes for his loſt little ſonne</l>
+               <l>A Captiu'd ſlaue to the Egiptians ſoul'd:</l>
+               <l>Reaſon ſets limmets to the longeſt griefe,</l>
+               <l>Sorrowe ſcarſe paſt when comfort is returning,</l>
+               <l>He ſends affliction that can lend reliefe,</l>
+               <l>Beſt that is pleaſ'd with meaſure in our mourning.</l>
+               <l>Loſt in her ſelfe, her ſpirits are ſo diſtracted,</l>
+               <l>All hopes diſſolu'd might fortifie her further,</l>
+               <l>Her minde ſeemes now of miſerie compacted,</l>
+               <l>That muſt conſent vnto ſo deere a murther.</l>
+               <l>Of ſlime and twigs ſhe makes a ſimple ſhread</l>
+               <l>(The poore laſt dutie to her Childe ſhe owes</l>
+               <l>This prettie martyr, this yet liuing dead)</l>
+               <l>Wherein ſhee doth his little corps encloſe:</l>
+               <l>And meanes to beare it preſently away,</l>
+               <l>And in ſome water ſecretly beſtowe it,</l>
+               <l>But yet a while bethinks her ſelfe to ſtay,</l>
+               <l>Some little kindnes ſhe doth further owe it:</l>
+               <l>Nor will ſhe in this crueltie perſeuer,</l>
+               <l>That by her meanes his timeleſſe blood be ſpilt,</l>
+               <l>If of her owne ſhe doth her ſelfe deliuer,</l>
+               <pb facs="tcp:173391:11"/>
+               <l>Let others hands be nocent of the guilt:</l>
+               <l>Yet if ſhe keepe it from the ruthleſſe flood</l>
+               <l>That is by <hi>Pharo's</hi> tyrannie aſſign'd it,</l>
+               <l>What bootes that wretched miſerable good,</l>
+               <l>If ſo diſpoſ'd where none do come to finde it,</l>
+               <l>For better yet the Homicyde ſhould kill it,</l>
+               <l>Or by ſome beaſt in peeces to be rent,</l>
+               <l>Than lingering famine cruellie ſhould ſpill it</l>
+               <l>That it endure a double languiſhment:</l>
+               <l>And neighbouring neere to the <hi>Egiptian</hi> Court,</l>
+               <l>She knowes a place that neere the riuer ſide</l>
+               <l>Was oft frequented by the worthier ſort,</l>
+               <l>For now the ſpring was newly in her pride.</l>
+               <l>Thither ſhe haſts but with a painfull ſpeede</l>
+               <l>The neareſt way ſhe poſſibly could get,</l>
+               <l>And by the cleare brim mongſt the flags &amp; reede,</l>
+               <l>Her little Coffin carefully ſhe ſet:</l>
+               <l>Her little Girle (the Mother following neere)</l>
+               <l>As of her Brother that her leaue would take,</l>
+               <l>Which the ſad woman vnexpecting there,</l>
+               <l>Yet it to helpe her kindly thus beſpake:</l>
+               <l>(Quoth ſhe) ſweet <hi>Miriam</hi> ſecretly attend,</l>
+               <l>And for his death ſee who approcheth hether,</l>
+               <l>That once for all aſſured of his end,</l>
+               <l>His dayes and mine be conſummate together,</l>
+               <l>It is ſome comfort to a wretch to die</l>
+               <pb n="11" facs="tcp:173391:11"/>
+               <l>(If there be comfort in the way of death)</l>
+               <l>To haue ſome friend or kinde Alliance by,</l>
+               <l>To be officious at the parting breath:</l>
+               <l>Thus ſhe departs, oft ſtayes, oft turneth back,</l>
+               <l>Looking about leſt any one eſpi'd her,</l>
+               <l>Faine would ſhe leaue, that leauing ſhe doth lack,</l>
+               <l>That in this ſort ſo ſtrangely doth diuide her.</l>
+               <l>Vnto what Dame (participating kinde)</l>
+               <l>My verſe her ſad perplexitie ſhall ſhowe,</l>
+               <l>That in a ſoftned and relenting minde</l>
+               <l>Findes not a true tuch of that Mothers woe.</l>
+               <l>Yet all this while full quietly it ſlept,</l>
+               <l>(Poore little Brat incapable of care)</l>
+               <l>Which by that powerfull prouidence is kept,</l>
+               <l>Who doth this childe for better daies prepare.</l>
+               <l>See here an abiect vtterly forlorne,</l>
+               <l>Left to deſtruction as a violent pray,</l>
+               <l>Whom man might iudge accurſed to be borne,</l>
+               <l>To darke obliuion moulded vp in clay,</l>
+               <l>That man of might in after times ſhould bee</l>
+               <l>(The bounds of fraile mortality that brake)</l>
+               <l>Which that Almighty gloriouſly ſhould ſee,</l>
+               <l>When he in thunder on mount <hi>Sina</hi> ſpake.</l>
+               <l>Now <hi>Pharo's</hi> Daughter <hi>Termuth</hi> young and faire,</l>
+               <l>With ſuch choyce Maydens as ſhe fauour'd moſt,</l>
+               <l>Needes would abroade to take the gentle ayre,</l>
+               <pb facs="tcp:173391:12"/>
+               <l>Whilſt the rich yeere his braueries ſeem'd to boaſt:</l>
+               <l>Softly ſhe walkes downe to the ſecret flood,</l>
+               <l>Through the calme ſhades moſt peaceable &amp; quiet,</l>
+               <l>In the coole ſtreames to check the pampred blood,</l>
+               <l>Stir'd with ſtrong youth and their delicious diet;</l>
+               <l>Such as the Princeſſe, ſuch the day addreſſed,</l>
+               <l>As though prouided equally to paire her,</l>
+               <l>Either in other fortunatly bleſſed</l>
+               <l>Shee by the day, the day by her made fairer,</l>
+               <l>Both in the height and fulnes of their pleaſure,</l>
+               <l>As to them both ſome future good diuining,</l>
+               <l>Holding a ſteadie an accompliſh'd meaſure,</l>
+               <l>This in her perfect clearenes, that in ſhining.</l>
+               <l>The very aire to emulate her meekenes,</l>
+               <l>Stroue to be bright and peaceable as ſhe,</l>
+               <l>That it grewe iealous of that ſodaine ſleekenes,</l>
+               <l>Fearing it after otherwiſe might be:</l>
+               <l>And if the fleet winde by ſome rigorous gale</l>
+               <l>Seem'd to be mou'd, and patiently to chide her,</l>
+               <l>It was as angrie with her lawnie vaile,</l>
+               <l>That from his ſight it enuiouſlie ſhould hide her:</l>
+               <l>And now approching to the flow'rie meade</l>
+               <l>Where the rich Sommer curiouſlie had dight her,</l>
+               <l>Which ſeem'd in all her iollitie arayde,</l>
+               <l>With Natures coſt and pleaſures to delight her:</l>
+               <l>See this moſt bleſſed, this vnuſuall hap,</l>
+               <pb n="13" facs="tcp:173391:12"/>
+               <l>Shee the ſmall basket ſooner ſhould eſpie,</l>
+               <l>That the Childe wak'd, and miſſing of his pap,</l>
+               <l>As for her ſuccour inſtantly did crie;</l>
+               <l>Forth of the flagges ſhe cauſ'd it to be taken,</l>
+               <l>Calling her Maids this Orphanet to ſee,</l>
+               <l>Much did ſhee ioy an Innocent forſaken</l>
+               <l>By her from perill priuiledg'd might bee:</l>
+               <l>This moſt ſweete Princeſſe pittifull and milde,</l>
+               <l>Soone on her knee vnſwathes it as her owne,</l>
+               <l>Found for a man, ſo beautifull a Childe,</l>
+               <l>Might for an Hebrew eaſily be knowne:</l>
+               <l>Noting the care in dreſsing it beſtow'd,</l>
+               <l>Each thing that fitted gentlenes to weare,</l>
+               <l>Iudg'd the ſad parents this loſt Infant ow'd,</l>
+               <l>Were as invulgar as their fruit was faire,</l>
+               <l>(Saith ſhee) my minde not any way ſuggeſts</l>
+               <l>An vnchaſte wombe theſe lineaments that bred,</l>
+               <l>For thy faire browe apparently conteſts</l>
+               <l>The currant ſtampe of a cleane nuptiall bed:</l>
+               <l>She nam'd it <hi>Moyſes</hi> which in time might tell</l>
+               <l>(For names doe many myſteries expound)</l>
+               <l>When it was young the chaunce that it befell,</l>
+               <l>How by the water ſtrangely it was found,</l>
+               <l>Calling Melch-women that Egyptians were,</l>
+               <l>Once to the teat his lips he would not lay,</l>
+               <l>As though offended with their ſullied leare,</l>
+               <pb facs="tcp:173391:13"/>
+               <l>Seeming as ſtill to turne his head away:</l>
+               <l>The little Girle that neere at hand did lurke</l>
+               <l>(Thinking this while ſhe taried but too long)</l>
+               <l>Finding theſe things ſo happily to worke,</l>
+               <l>Kindly being crafty, wiſe as ſhe was yong,</l>
+               <l>Madame (ſaith ſhe) wilt pleaſe you I prouide</l>
+               <l>A Nurſe to breed the Infant you did finde,</l>
+               <l>There is an Hebrew dwelling here beſide,</l>
+               <l>I know can doe it fitly to your minde:</l>
+               <l>For a right Hebrew if the Infant bee,</l>
+               <l>(As well produce you inſtances I can,</l>
+               <l>And by this Childe as partly you may ſee,)</l>
+               <l>It will not ſuck of an <hi>Egiptian,</hi>
+               </l>
+               <l>The curteous Princeſſe offered now ſo faire,</l>
+               <l>That which before ſhe earneſtly deſir'd</l>
+               <l>That of her foundling had a ſpeciall care,</l>
+               <l>The Girle to fetch her inſtantly requir'd.</l>
+               <l>Away the Girle goes, doth her Mother tell</l>
+               <l>What fauor God had to her brother ſhowne,</l>
+               <l>And what elſe in this accident befell,</l>
+               <l>That ſhe might now be Nurſe vnto her owne.</l>
+               <l>Little it bootes to bid the wench to ply her,</l>
+               <l>Nor the kinde Mother hearken to her ſonne,</l>
+               <l>Nor to prouoke her to the place to hie her,</l>
+               <l>Which ſeem'd not now on earthly feete to runne:</l>
+               <l>Slowe to her ſelfe yet haſting as ſhe flewe,</l>
+               <pb n="15" facs="tcp:173391:13"/>
+               <l>(So faſt affection forward did her beare)</l>
+               <l>As though forewafted with the breath ſhe drewe,</l>
+               <l>Borne by the force of nature and of feare,</l>
+               <l>Little the time, and little is the way,</l>
+               <l>And for her buſines eithers ſpeede doth craue,</l>
+               <l>Yet in her haſt bethinkes her what to ſay,</l>
+               <l>And how her ſelfe in preſence to behaue,</l>
+               <l>Slack ſhee'll not ſeeme leſt to anothers truſt</l>
+               <l>Her hopefull charge were happily directed,</l>
+               <l>Nor yet too forward ſhew her ſelfe ſhe muſt,</l>
+               <l>Leſt her ſweet fraud thereby might be ſuſpected;</l>
+               <l>Com'n ſhe doth bowe her humbly to the ground,</l>
+               <l>And euery ioynt inceſſantly doth tremble,</l>
+               <l>Gladnes and feare each other ſo confound,</l>
+               <l>So hard a thing for Mothers to diſſemble.</l>
+               <l>Saith this ſweet <hi>Termuth</hi> well I like thy beautie,</l>
+               <l>Nurſe me this Childe (if it thy ſtate behooue)</l>
+               <l>Although a Prince ile not enforce thy dutie,</l>
+               <l>But pay thy labour, and reward thy loue:</l>
+               <l>Though euen as Gods is <hi>Pharo's</hi> high command,</l>
+               <l>And as ſtrong Nature ſo preciſe and ſtrict,</l>
+               <l>There reſts that power yet in a Princeſſe hand,</l>
+               <l>Too free on Hebrew from this ſtrong edict:</l>
+               <l>That ſhall in rich abilliments bedight,</l>
+               <l>Deck'd in the Iems that admirabl'ſt ſhine,</l>
+               <l>Wearing our owne roabe gracious in our ſight,</l>
+               <pb facs="tcp:173391:14"/>
+               <l>Free in our Court, and nouriſhed for mine:</l>
+               <l>Loue him deare Hebrew as he were thine owne,</l>
+               <l>Good Nurſe be carefull of my little Boy,</l>
+               <l>In this to vs thy kindnes may be ſhowne,</l>
+               <l>Some Mothers griefe, is now a Maydens ioy.</l>
+               <l>This while all mute the poore aſtoniſh'd Mother,</l>
+               <l>With admiration as tranſpearced ſtood,</l>
+               <l>One burſting ioy doth ſo confound another,</l>
+               <l>Paſsion ſo powerfull in her rauiſh'd blood.</l>
+               <l>Whiſp'ring ſome ſoft words which deliuered were,</l>
+               <l>As rather ſeem'd her ſilence to impart,</l>
+               <l>And being inforc'd from baſhfulnes and feare,</l>
+               <l>Came as true tokens of a gracefull hart.</l>
+               <l>Thus ſhe departs her husband to content,</l>
+               <l>With this deare preſent back to him ſhe brought,</l>
+               <l>Making the time ſhort, telling each euent,</l>
+               <l>In all ſhapes ioy preſented to her thought.</l>
+               <l>Yet ſtill his manly modeſtie was ſuch</l>
+               <l>(That his affections ſtrongly ſo controlde,)</l>
+               <l>As if ioy ſeem'd his manly hart to touch,</l>
+               <l>It was her ioy and gladnes to beholde:</l>
+               <l>When all reioyc'd vnmou'd thereat the whiles,</l>
+               <l>In his graue face ſuch conſtancie appeares,</l>
+               <l>As now ſcarſe ſhewing comfort in his ſmiles,</l>
+               <l>Nor then reuealing ſorrowe in his teares:</l>
+               <l>Yet oft beheld it with that ſtedfaſt eye,</l>
+               <pb n="17" facs="tcp:173391:14"/>
+               <l>Which though it ſdain'd the pleaſdnes to confeſſe,</l>
+               <l>More in his lookes in fulnes there did lie,</l>
+               <l>Than all their words could any way expreſſe.</l>
+               <l>In time the Princeſſe playing with the Child,
+<note place="margin">Ioſephus Pet. Co<g ref="char:EOLhyphen"/>meſtor.</note>
+               </l>
+               <l>In whom ſhe ſeem'd her chiefe delight to take,</l>
+               <l>With whom ſhe oft the wearie time beguild,</l>
+               <l>That as her ownë did of this Hebrew make:</l>
+               <l>It ſo fell out as <hi>Pharo</hi> was in place,</l>
+               <l>Seeing his daughter in the Childe to ioy,</l>
+               <l>To pleaſe the Princeſſe, and to doe it grace,</l>
+               <l>Himſelfe vouchſafes to entertaine the Boy:</l>
+               <l>Whoſe ſhape and beautie when he did behould</l>
+               <l>With much content his Princely eye that fed,</l>
+               <l>Giuing to pleaſe it, any thing it would,</l>
+               <l>Set his rich Crowne vpon the Infants head,</l>
+               <l>With this weake Childe regarding not at all</l>
+               <l>(As ſuch a Babie careleſlie is meete)</l>
+               <l>Vnto the ground the Diadem let fall</l>
+               <l>Spurning it from him with neglectfull feete.</l>
+               <l>Which as the Prieſts beheld this omenous thing</l>
+               <l>(That elſe had paſt vnnoted as a toy.)</l>
+               <l>As from their skill report vnto the King,</l>
+               <l>This was the man that <hi>Egipt</hi> ſhould deſtroy.</l>
+               <l>Tolde by the <hi>magi</hi> that were learn'd and wiſe,</l>
+               <l>Which might full well the iealous King enflame,</l>
+               <l>Said by th' <hi>Egiptian</hi> auncient prophecies</l>
+               <pb facs="tcp:173391:15"/>
+               <l>That might giue credite eaſlier to the ſame.</l>
+               <l>She as diſcreete as ſhe was chaſte and faire,</l>
+               <l>With Princely geſture and with count'nance milde</l>
+               <l>By things that hurtfull and moſt dangerous were</l>
+               <l>Showes to the King the weakenes of the Childe:</l>
+               <l>Hot burning coales doth to his mouth preſent,</l>
+               <l>Which he to handle ſimply doth not ſticke,</l>
+               <l>This little foole, this retchleſſe Innocent</l>
+               <l>The burning gleed with his ſoft tongue doth licke:</l>
+               <l>Which though in <hi>Pharo</hi> her deſire it wrought,</l>
+               <l>His babiſh imbecilitie to ſee,</l>
+               <l>To the Childes ſpeach impediment it brought,</l>
+               <l>From which he after neuer could be free.</l>
+               <l>The Childe grew vp, when in his manly face</l>
+               <l>Beautie was ſeene in an vnuſuall cheere,</l>
+               <l>Such mixtures ſweet of comlines and grace</l>
+               <l>Likely apparell'd in complexion cleere.</l>
+               <l>The part of earth contends with that of Heauen,</l>
+               <l>Both in their proper puritie excelling,</l>
+               <l>To whether more preheminence was giuen,</l>
+               <l>Which ſhould excell the dweller or the dwelling.</l>
+               <l>Mens vſuall ſtature he did farre exceede,</l>
+               <l>And euery part proportioned ſo well,</l>
+               <l>The more the eye vpon his ſhape did feede</l>
+               <l>The more it long'd vpon the ſame to dwell:</l>
+               <l>Each ioynt ſuch perfect Harmonie did beare,</l>
+               <pb n="19" facs="tcp:173391:15"/>
+               <l>That eurious iudgement taking any lim</l>
+               <l>Searching might miſſe to match it any where,</l>
+               <l>Nature ſo fail'd in paralelling him:</l>
+               <l>His haire bright yellowe, on an arched browe</l>
+               <l>Sate all the beauties kinde could euer frame,</l>
+               <l>And did them there ſo orderly beſtowe,</l>
+               <l>As ſuch a ſeate of maieſtie became.</l>
+               <l>As time made perfect each exteriour part,</l>
+               <l>So ſtill his honour with his yeeres encreaſ'd,</l>
+               <l>That he ſate Lord in many a tender hart,</l>
+               <l>With ſuch high fauours his faire youth was bleſſ'd.</l>
+               <l>So fell it out that <hi>Aethiop</hi> warre began,</l>
+               <l>Inuading <hi>Egipt</hi> with their Armed powers,</l>
+               <l>And taking ſpoiles, the Country ouer-ran</l>
+               <l>To where as <hi>Memphis</hi> vaunts her climing Towers.</l>
+               <l>Wherefore they with their Oracles conferre</l>
+               <l>About th'euent, which doo this anſwere make,</l>
+               <l>That if they would tranſport this ciuill warre,</l>
+               <l>They to their Captaine muſt an Hebrew take.</l>
+               <l>And for faire <hi>Moyſes</hi> happily was growne</l>
+               <l>Of ſo great towardnes and eſpeciall hope,</l>
+               <l>Him they doe chooſe as abſoluteſt knowne</l>
+               <l>To leade their power againſt the <hi>Aethiope.</hi>
+               </l>
+               <l>Which they of <hi>Termuth</hi> hardly can obtaine,</l>
+               <l>Though on their Altars by their Gods they vowe</l>
+               <l>Him to deliuer ſafe to her againe,</l>
+               <pb facs="tcp:173391:16"/>
+               <l>(Once the warre ended) ſafe as he was now.</l>
+               <l>Who for the way the Armie was to paſſe,</l>
+               <l>That by th'<hi>Egiptians</hi> onely was intended,</l>
+               <l>Moſt part by water, more prolixious was</l>
+               <l>Than preſent perill any whit commended:</l>
+               <l>To intercept the <hi>Aethtopians</hi> wrought</l>
+               <l>A way farre nearer who their Legions led,</l>
+               <l>Which till that time impaſſible was thought,</l>
+               <l>Such ſtore of ſerpents in that place was bred:</l>
+               <l>Deuiſ'd by birds this danger to eſchewe,</l>
+               <l>Whereof in <hi>Egipt</hi> be exceeding ſtore,</l>
+               <l>The Storke, and <hi>Ibis,</hi> which he wiſely knewe,</l>
+               <l>All kinds of Serpents naturally abhore.</l>
+               <l>Which he in Baskets of <hi>Egiptian</hi> reede,</l>
+               <l>Borne with his caridge eaſely doth conuay,</l>
+               <l>And where incampeth ſets them forth to feede,</l>
+               <l>Which driue the Serpents preſently away.</l>
+               <l>Thus them preuenting by this ſubtill courſe,</l>
+               <l>That all their ſuccour ſodainly bereft,</l>
+               <l>When <hi>Aethiop</hi> flies before th'<hi>Egiptian</hi> force,</l>
+               <l>Shut vp in <hi>Saba</hi> their laſt refuge left.</l>
+               <l>Which whilſt with ſtrait ſiedge they beleagred long,</l>
+               <l>The Kings faire Daughter haps him to beholde,</l>
+               <l>And became fettered with affection ſtrong,</l>
+               <l>Which in ſhort time could hardly be controlde.</l>
+               <l>
+                  <hi>Tarbis</hi> that kindled this rebellious rage,
+<note place="margin">
+                     <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>omeſtor</note>
+               </l>
+               <pb n="21" facs="tcp:173391:16"/>
+               <l>That they to <hi>Egipt</hi> tributorie were,</l>
+               <l>When the olde King decrepit now with age,</l>
+               <l>Shee in his ſtead the ſouereigntie did beare.</l>
+               <l>Vp to his Tower where ſhe the Camp might ſee,</l>
+               <l>To looke her new Loue euery day ſhe went,</l>
+               <l>And when he hap'ned from the field to bee,</l>
+               <l>Shee thought her bleſt beholding but his Tent,</l>
+               <l>And oftentimes doth modeſtly inuay</l>
+               <l>Gainſt him the Citie walled firſt about,</l>
+               <l>That the ſtrong ſite ſhould churliſhly denay</l>
+               <l>Him to come in, or her for paſſing out,</l>
+               <l>Had the gates beene but ſoftned as her breaſt</l>
+               <l>(That to behold her loued enemie ſtands)</l>
+               <l>He had ere this of <hi>Saba</hi> beene poſſeſt,</l>
+               <l>And therein planted the <hi>Egiptian</hi> bands:</l>
+               <l>Oft from a place as ſecretly ſhe might</l>
+               <l>(That from her Pallace look'd vnto his Tent)</l>
+               <l>When he came forth appearing in his ſight,</l>
+               <l>Shewing by ſignes the loue to him ſhe ment.</l>
+               <l>For in what armes it pleaſ'd him to be dight,</l>
+               <l>After the Hebrew or th'<hi>Egiptian</hi> guiſe:</l>
+               <l>He was the braueſt, the moſt goodly wight</l>
+               <l>That euer graced <hi>Aethiop</hi> with his eies.</l>
+               <l>And finding meanes to parley from a place,</l>
+               <l>By night, her paſſion doth to him diſcouer,</l>
+               <l>To yeeld the Citie if he would embrace</l>
+               <pb facs="tcp:173391:17"/>
+               <l>Her a true Princeſſe, as a faithfull Louer.</l>
+               <l>The feature of ſo delicate a Dame</l>
+               <l>Motiues ſufficient to his youth had beene,</l>
+               <l>But to be Lord of Kingdomes by the ſame,</l>
+               <l>And of ſo great and abſolute a Queene,</l>
+               <l>Soone gently ſtole him from himſelfe away.</l>
+               <l>That doth to him ſuch rarities partake,</l>
+               <l>Off'ring ſo rich, ſo excellent a pray,</l>
+               <l>Louing the treaſon for the Traytors ſake:</l>
+               <l>But whilſt he liued in this glorious vaine,</l>
+               <l>
+                  <hi>Jſrael</hi> his conſcience oftentimes doth moue,</l>
+               <l>That all this while in <hi>Egipt</hi> did remaine</l>
+               <l>Vertue and grace o'recomming youth and loue.</l>
+               <l>And though God knowes vnwilling to depart,</l>
+               <l>From ſo high Empire wherein now he ſtood,</l>
+               <l>And her that ſate ſo neere vnto his hart,</l>
+               <l>Such power hath <hi>Jſrael</hi> in his happie blood,</l>
+               <l>By skill to quit him forcibly he wrought,</l>
+               <l>As he was learn'd and traded in the ſtarres,</l>
+               <l>Both by the Hebrewes, and th'<hi>Egiptians</hi> taught,</l>
+               <l>That were the firſt the beſt Aſtronomers,</l>
+               <l>Two ſundrie figures makes,
+<note place="margin">Come<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>tor <hi>ex Vet. Script.</hi>
+                  </note> whereof the one</l>
+               <l>Cauſe them that weare it all things paſt forget.</l>
+               <l>As th'other of all accidents foregone</l>
+               <l>The memorie as eagerly doth whet.</l>
+               <l>Which he inſculped in two likely ſtones,</l>
+               <pb n="23" facs="tcp:173391:17"/>
+               <l>For rarenes of inualuable price,</l>
+               <l>And cunningly contriu'd them for the nones</l>
+               <l>In likely rings of excellent deuiſe:</l>
+               <l>That of obliuion giuing to his Queene,</l>
+               <l>Which ſoone made ſhowe the violent effect</l>
+               <l>Forgot him ſtraight as he had neuer beene,</l>
+               <l>And all her former kindneſſes neglect.</l>
+               <l>The other (that doth memorie aſſiſt)</l>
+               <l>Him with the loue of <hi>Jſrael</hi> doth enflame,</l>
+               <l>Departing thence not how the Princeſſe wiſt,</l>
+               <l>In peace he leaues her as in warre he came.</l>
+               <l>But all the pleaſures of th'<hi>Egiptian</hi> Court,</l>
+               <l>Had not ſuch power vpon his ſpringing yeares,</l>
+               <l>As had the ſad and tragicall report</l>
+               <l>Of the rude burdens captiu'd <hi>Iſrael</hi> beares,</l>
+               <l>Nor what regards he to be grac'd of Kings?</l>
+               <l>Or flattered greatnes idely to awaite?</l>
+               <l>Or what reſpects he the negotiating</l>
+               <l>Matters comporting Emperie and ſtate?</l>
+               <l>The bondage and ſeruilitie that lay</l>
+               <l>On buried <hi>Jſrael</hi> (ſunke in ordurous ſlime)</l>
+               <l>His greeued ſpirit downe heauily did way,</l>
+               <l>That to leane care oft lent the proſperous time.</l>
+               <l>A wretched Hebrew hap'ned to beholde</l>
+               <l>Bruſ'd with ſad burdens without all remorſe</l>
+               <l>By an <hi>Egiptian</hi> barb'rouſly controlde,</l>
+               <pb facs="tcp:173391:18"/>
+               <l>Spurning his pin'd and miſerable corſe</l>
+               <l>Which he beholding vexed as he ſtood,</l>
+               <l>His faire veines ſwelling with impatient fire,</l>
+               <l>Pittie and rage ſo wreſtled in his blood</l>
+               <l>To get free paſſage to conceaued ire,</l>
+               <l>Reſcuing the man th'<hi>Egiptian</hi> doth reſiſt:</l>
+               <l>(Which fro<g ref="char:cmbAbbrStroke">̄</g> his vile hands forcibly he tooke)</l>
+               <l>And by a ſtrong blowe with his valiant fiſt.</l>
+               <l>His hatefull breath out of his noſtrils ſtrooke.</l>
+               <l>Which though his courage boldly dare auerre,</l>
+               <l>In the proud power of his Emperious hand,</l>
+               <l>Yet from high honour deigneth to interre,</l>
+               <l>The wretched carkaſſe in the ſmouldring ſand.</l>
+               <l>Which then ſuppoſ'd in ſecret to be wrought,</l>
+               <l>Yet ſtill hath Enuie ſuch a iealous eie,</l>
+               <l>As forth the ſame incontinent it ſought,</l>
+               <l>And to the King deliuered by and by,</l>
+               <l>Which ſoone gaue vent to <hi>Pharoes</hi> couered wrath,</l>
+               <l>Which till this inſtant reaſon did confine,</l>
+               <l>Opening a ſtraite way, an apparant path</l>
+               <l>Vnto that great and terrible deſigne:</l>
+               <l>Moſt for his ſafety forcing his retreate</l>
+               <l>When now affliction euery day did breed,</l>
+               <l>And when reuengefull tyrannie did threate</l>
+               <l>The greateſt horrour to the Hebrew ſeed.</l>
+               <l>To <hi>Midian</hi> now his Pilgrimage he tooke,</l>
+               <pb n="25" facs="tcp:173391:18"/>
+               <l>
+                  <hi>Midian</hi> earthes onely Paradice for pleaſures,</l>
+               <l>Where many a ſoft Rill, many a ſliding Brooke,</l>
+               <l>Through the ſweet vallies trip in wanton meaſures,</l>
+               <l>Whereas the curl'd Groues and the flowrie fields,</l>
+               <l>To his free ſoule ſo peaceable and quiet</l>
+               <l>More true delight and choiſe contentment yields,</l>
+               <l>Than <hi>Egipts</hi> braueries and luxurious diet:</l>
+               <l>And wand'ring long he hap'ned on a Well,</l>
+               <l>Which he by pathes frequented might eſpie,</l>
+               <l>Bordred with trees where pleaſure ſeem'd to dwell,</l>
+               <l>Where to repoſe him, eaſ'ly downe doth lie:</l>
+               <l>Where the ſoft windes did mutually embrace,</l>
+               <l>In the coole Arbours Nature there had made,</l>
+               <l>Fanning their ſweet breath gently in his face,</l>
+               <l>Through the calme cincture of the am'rous ſhade.</l>
+               <l>Till now it nigh'd the noon-ſtead of the day,</l>
+               <l>Whe<g ref="char:cmbAbbrStroke">̄</g> ſcorching heat the gadding Heards do grieue.</l>
+               <l>When Shepheards now &amp; Heardſmen euery way,</l>
+               <l>Their thirſting Cattell to the Fountaine driue:</l>
+               <l>Amongſt the reſt ſeuen Shepheardeſſes went</l>
+               <l>Along the way for watring of their Sheepe,</l>
+               <l>Whoſe eyes him ſeemed ſuch reflection ſent,</l>
+               <l>As made the Flocks euen white that they did keepe:</l>
+               <l>Girles that ſo goodly and delightfull were,</l>
+               <l>The fields were freſh and fragrant in their viewe,</l>
+               <l>Winter was as the Spring time of the yeare,</l>
+               <pb facs="tcp:173391:19"/>
+               <l>The graſſe ſo proud that in their footſteps grewe:</l>
+               <l>Daughters they were vnto a holy man,</l>
+               <l>(And worthy too of ſuch a Sire to be)</l>
+               <l>
+                  <hi>Jethro</hi> the Prieſt of fertile <hi>Midian,</hi>
+               </l>
+               <l>Fewe found ſo iuſt, ſo righteous men as he.</l>
+               <l>But ſee the rude Swaine, the vntutour'd ſlaue,</l>
+               <l>Without reſpect or reu'rence to their kinde,</l>
+               <l>Away their faire flocks from the water draue,</l>
+               <l>Such is the nature of the barb'rous Hinde:</l>
+               <l>The Maides (perceauing where a ſtranger ſat)</l>
+               <l>Of whom thoſe Clownes ſo baſely did eſteeme,</l>
+               <l>Were in his preſence diſcontent thereat,</l>
+               <l>Whom he perhaps improuident might deeme.</l>
+               <l>Which he perceauing kindly doth entreate,</l>
+               <l>Reproues the Ruſtickes for that off'red wrong,</l>
+               <l>Auerring it an iniurie too great,</l>
+               <l>To ſuch (of right) all kindnes did belong.</l>
+               <l>But finding well his Oratorie faile,</l>
+               <l>His fiſts about him frankly he beſtowes,</l>
+               <l>That where perſwaſion could not late preuaile,</l>
+               <l>He yet compelleth quickly by his blowes.</l>
+               <l>Entreates the Dam'ſels their aboade to make,</l>
+               <l>(With Courtly ſemblance and a manly grace,)</l>
+               <l>At their faire pleaſures quietly to take,</l>
+               <l>What might be had by freedome of the place.</l>
+               <l>Whoſe beautie, ſhape, and courage they admire,</l>
+               <pb n="27" facs="tcp:173391:19"/>
+               <l>Exceeding theſe, the honour of his minde,</l>
+               <l>For what in mortall could their harts deſire,</l>
+               <l>That in this man they did not richly finde?</l>
+               <l>Returning ſooner than their vſuall hower,</l>
+               <l>All that had hapned to their Father tould,</l>
+               <l>That ſuch a man relieu'd them by his power,</l>
+               <l>As one all ciuill curteſie that could:</l>
+               <l>VVho full of bountie hoſpitably meeke</l>
+               <l>Of his behauiour greatly pleaſ'd to heare,</l>
+               <l>Forthwith commaunds his ſeruants him to ſeeke,</l>
+               <l>To honour him by whom his honour'd were:</l>
+               <l>Gently receaues him to his goodly ſeate,</l>
+               <l>Feaſts him his friends and families among,</l>
+               <l>And him with all thoſe offices entreate,</l>
+               <l>That to his place and vertues might belong.</l>
+               <l>VVhilſt in the beautie of thoſe goodly Dames,</l>
+               <l>vvherein wiſe Nature her owne skill admires,</l>
+               <l>He feeds thoſe ſecret and impiercing flames,</l>
+               <l>Nurſ'd in freſh youth, and gotten in deſires:</l>
+               <l>VVonne with this man this Princely Prieſt to dwell,</l>
+               <l>For greater hire than bountie could deuiſe,</l>
+               <l>For her whoſe praiſe makes praiſe it ſelfe excell,</l>
+               <l>Fairer than fairenes, and as wiſedome wiſe.</l>
+               <l>In her, her Siſters ſeuerally were ſeene,</l>
+               <l>Of euery one ſhe was the rareſt part,</l>
+               <l>vvho in her preſence any time had beene,</l>
+               <pb facs="tcp:173391:20"/>
+               <l>Her Angell eye tranſpierced not his hart.</l>
+               <l>For <hi>Zipora</hi> a Shepheards life he leades,</l>
+               <l>And in her ſight deceaues the ſubtill howres,</l>
+               <l>And for her ſake oft robes the flowrie meades.</l>
+               <l>With thoſe ſweet ſpoiles t'enrich her rurall bowres,</l>
+               <l>Vp to mount <hi>Horeb</hi> with his flocke he tooke,</l>
+               <l>The flocke wiſe <hi>Jethro</hi> willed him to keepe,</l>
+               <l>Which well he garded with his Shepheards crooke,</l>
+               <l>Goodly the Sheepheard, goodly were the Sheepe;</l>
+               <l>To feede and folde full warily he knewe,</l>
+               <l>From Foxe and Wolfe his wandring flocks to free,</l>
+               <l>The goodli'ſt flower that in the meadowes grewe</l>
+               <l>Were not more freſh and beautifull than hee.</l>
+               <l>Gently his faire flocks leſſow'd he along,</l>
+               <l>Through the Frim paſtures freely at his leaſure,</l>
+               <l>Now on the hills, the vallies then among,</l>
+               <l>Which ſeeme themſelues to offer to his pleaſure.</l>
+               <l>Whilſt feathered <hi>Siluans</hi> from each blooming ſpray,</l>
+               <l>With murm'ring waters wiſtly as they creepe,</l>
+               <l>Make him ſuch muſicke (to abridge the way,)</l>
+               <l>As fits a Shepheard companie to keepe.</l>
+               <l>When loe that great and fearefull God of might</l>
+               <l>To that faire Hebrew ſtrangely doth appeare,</l>
+               <l>In a buſh burning viſible and bright</l>
+               <l>Yet vnconſuming as no fire there were:</l>
+               <l>With haire erected and vpturned eies,</l>
+               <pb n="29" facs="tcp:173391:20"/>
+               <l>Whilſt he with great aſtoniſhment admires,</l>
+               <l>Loe that eternall Rector of the skies,</l>
+               <l>Thus breathes to <hi>Moyſes</hi> from thoſe quickning fires,</l>
+               <l>Shake off thy ſandals (ſaith the thund'ring God,</l>
+               <l>With humbled feete my wondrous power to ſee.</l>
+               <l>For that the ſoile where thou haſt boldly troad,</l>
+               <l>Is moſt ſelect and hallow'd vnto mee:</l>
+               <l>The righteous <hi>Abraham</hi> for his God we knewe,</l>
+               <l>
+                  <hi>Jſack</hi> and <hi>Jacob</hi> truſted in mine Name,</l>
+               <l>And did beleeue my Couenant was true,</l>
+               <l>Which to their ſeed ſhall propogate the ſame:</l>
+               <l>My folke that long in <hi>Egipt</hi> had beene bard,</l>
+               <l>Whoſe cries haue entred Heauens eternall gate</l>
+               <l>Our zealous mercie openly hath heard,</l>
+               <l>Kneeling in teares at our eternall ſtate.</l>
+               <l>And am come downe, them in the Land to ſee,</l>
+               <l>where ſtreames of milk through batfull vallies flow,</l>
+               <l>And luſhious hony dropping from the tree,</l>
+               <l>Loade the full flow'rs that in the ſhadowes grow:</l>
+               <l>By thee my power am purpoſed to trie,</l>
+               <l>That fro<g ref="char:cmbAbbrStroke">̄</g> rough bondage ſhalt the Hebrewes bring,</l>
+               <l>Bearing that great and fearefull Embaſſie,</l>
+               <l>To that Monarchall and Emperious King.</l>
+               <l>And on this mountaine (ſtanding in thy ſight,)</l>
+               <l>vvhen thou returneſt from that conquered Land,</l>
+               <l>Thou hallow'd Altars vnto me ſhalt light,</l>
+               <pb facs="tcp:173391:21"/>
+               <l>This for a token certainly ſhall ſtand.</l>
+               <l>O who am I? this wondring man replies,</l>
+               <l>A wretched mortall that I ſhould be ſent,</l>
+               <l>And ſtand ſo cleere in thine eternall eies,</l>
+               <l>To doe a worke of ſuch aſtoniſhment:</l>
+               <l>And trembling now with a transfixed hart,</l>
+               <l>Humbling himſelfe before the Lord (quoth hee)</l>
+               <l>vvho ſhall I tell the Hebrewes that thou art,</l>
+               <l>That giu'ſt this large commiſſion vnto mee?</l>
+               <l>Say (quoth the Spirit from that impetuous flame)</l>
+               <l>Vnto the Hebrewes asking thee of this,</l>
+               <l>That t'was: I AM: which onely is my Name,</l>
+               <l>God of their Fathers, ſo my Title is:</l>
+               <l>Diuert thy courſe to <hi>Goſhen</hi> then againe,</l>
+               <l>And to divulge it conſtantly be bolde,</l>
+               <l>And their glad eares attractiuely retaine,</l>
+               <l>vvith what at <hi>Sina Abrahams</hi> God hath tolde:</l>
+               <l>And tell great <hi>Pharo</hi> that the Hebrewes God,</l>
+               <l>Commaunds from <hi>Egipt</hi> that he ſet you free,</l>
+               <l>Three iournies thence in Deſarts farre abroad,</l>
+               <l>To offer hallow'd ſacrifice to mee.</l>
+               <l>But he refuſing to diſmiſſe you ſo</l>
+               <l>On that proud King i'le execute ſuch force,</l>
+               <l>As neuer yet came from the ſling, the bowe,</l>
+               <l>The keen-edg'd Curt'lax, or the puiſant horſe,</l>
+               <l>But if th'afflicted miſerable ſort</l>
+               <pb n="31" facs="tcp:173391:21"/>
+               <l>To idle incredulitie enclin'd,</l>
+               <l>Shall not (quoth <hi>Moyſes</hi>) credit my report,</l>
+               <l>That thou to me haſt ſo great power aſſign'd.</l>
+               <l>Caſt downe (ſaith God) thy wand vnto the ground,</l>
+               <l>Which he obaying fearefully, beholde</l>
+               <l>The ſame a Serpent ſo dainly was found,</l>
+               <l>It ſelfe contorting into many a folde.</l>
+               <l>With ſuch amazement <hi>Moyſes</hi> doth ſurpriſe</l>
+               <l>With colde convulſions ſhrinking euery vaine,</l>
+               <l>That his affrighted and vplifted eyes</l>
+               <l>Euen ſhot with horrour, ſinke into his braine.</l>
+               <l>But being encourag'd by the Lord to take,</l>
+               <l>The vgly taile into his trembling hand,</l>
+               <l>As from a dreame he ſodainly doth wake,</l>
+               <l>When at the inſtant it became a wand.</l>
+               <l>By the ſame hand into his boſome ſhut,</l>
+               <l>Whoſe eyes his withered leproſie abhor'd,</l>
+               <l>When forth he drewe it ſecondly be'ng put,</l>
+               <l>Vnto the former puritie reſtor'd.</l>
+               <l>Theſe ſignes he giues this ſad admiring man,</l>
+               <l>Which he the weake incredulous ſhould ſhowe,</l>
+               <l>When this fraile mortall freſhly now began</l>
+               <l>To forge new cauſes, why vnfit to goe?</l>
+               <l>
+                  <hi>Egipt</hi> accuſing to haue done him wrong,</l>
+               <l>Scantling that bountie Nature had beſtow'd,</l>
+               <l>Which had welnere depriu'd him of his tong,</l>
+               <pb facs="tcp:173391:22"/>
+               <l>Which to this office chiefly had beene ow'd.</l>
+               <l>When he whoſe wiſedome Nature muſt obay,</l>
+               <l>In whoſe reſiſtance reaſon weakely failes,</l>
+               <l>To whom all humane inſtances giue way,</l>
+               <l>Gainſt whom not ſubtill Argument preuailes</l>
+               <l>Thus doth reproue this idle vaine excuſe,</l>
+               <l>Who made the mouth? who th'eie? or who the eare?</l>
+               <l>Or who depriues thoſe organs of their vſe?</l>
+               <l>That thou thy imbecilitie ſhould'ſt feare?</l>
+               <l>Thy Brother <hi>Aaron</hi> commeth vnto thee,</l>
+               <l>Which as thy Speaker purpoſely I bring,</l>
+               <l>To whom thy ſelfe euen as a God ſhalt bee,</l>
+               <l>And he interpret to th'<hi>Egiptian</hi> King.</l>
+               <l>That when he at thy myracles ſhall wonder,</l>
+               <l>And wan with feare ſhall tremble at thy rod,</l>
+               <l>To feele his power that ſwayes the dreadfull thunder,</l>
+               <l>That is a iealous and a fearefull God.</l>
+               <l>Then ſhall mine owne ſelfe purchaſe me renowne,</l>
+               <l>And win me honour by my glorious deede</l>
+               <l>On all the <hi>Pharo's</hi> on th'<hi>Egiptian</hi> throne,</l>
+               <l>That this proud mortall euer ſhall ſucceede.</l>
+            </lg>
+         </div>
+         <div n="2" type="book">
+            <pb n="33" facs="tcp:173391:22"/>
+            <head>The ſecond Booke.</head>
+            <lg>
+               <head>¶ THE ARGVMENT.</head>
+               <l>Moyſes <hi>doth his meſſage bring,</hi>
+               </l>
+               <l>
+                  <hi>Acts myracles before the King,</hi>
+               </l>
+               <l>
+                  <hi>With him the</hi> Magi <hi>doe contend,</hi>
+               </l>
+               <l>
+                  <hi>Which he doth conquer in the end,</hi>
+               </l>
+               <l>
+                  <hi>When by th'extenſure of the wand</hi>
+               </l>
+               <l>
+                  <hi>He brings ten plagues vpon the Land,</hi>
+               </l>
+               <l>
+                  <hi>And in despight of</hi> Pharo's <hi>pride</hi>
+               </l>
+               <l>
+                  <hi>From</hi> Goſhen <hi>doth the Hebrewes guide.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <seg rend="decorInit">W</seg>Hen now fro<g ref="char:cmbAbbrStroke">̄</g> 
+                  <hi>Midian Moyſes</hi> forward ſet</l>
+               <l>With who<g ref="char:cmbAbbrStroke">̄</g> his wife &amp; faire retine we went,</l>
+               <l>Where on his way him happily hath met</l>
+               <l>His brother <hi>Aron</hi> to the Lords intent,</l>
+               <l>And to the Hebrewes in th'impatient hand</l>
+               <l>Of mightie <hi>Egipt</hi> all his power implies,</l>
+               <l>And as the Lord expreſly did command,</l>
+               <l>Acteth his wonders in their pleaſed eies.</l>
+               <pb facs="tcp:173391:23"/>
+               <l>Thoſe myracles mortalitie beholdes</l>
+               <l>With an aſtoniſh'd and diſtracted looke,</l>
+               <l>The minde that ſo amazedly enfoldes,</l>
+               <l>That euery ſence the facultie forſooke.</l>
+               <l>The little Infant with abundant ioy</l>
+               <l>To mans eſtate immediatly is ſprung,</l>
+               <l>And though the old man could not back turne boy,</l>
+               <l>Caſts halfe his yeeres ſo much becomming young.</l>
+               <l>Whilſt mirth in fulnes meaſureth euery eye,</l>
+               <l>Each breaſt is heap'd vp with exceſſe of pleaſure,</l>
+               <l>Rearing their ſpread hands to the glorious skie,</l>
+               <l>Gladly embracing the Almighties leaſure.</l>
+               <l>Theſe Hebrewes entring th'<hi>Egiptian</hi> Court,</l>
+               <l>Their great Commiſſion publiquely proclaime,</l>
+               <l>Which there repulſed as a ſlight report,</l>
+               <l>Doth ſoone denounce defiance to the ſame.</l>
+               <l>Where now theſe men their myracles commend,</l>
+               <l>By which their power preciſely might be tride,</l>
+               <l>And <hi>Pharo</hi> for his Sorcerers doth ſend,</l>
+               <l>By them the Hebrewes onely to deride.</l>
+               <l>Where Heauen muſt now apparently tranſcend</l>
+               <l>Th'infernall powers Emperiouſly to thwart,</l>
+               <l>And the bright perfect Deitie contend</l>
+               <l>With abſtruſe Magicke and fallacious Art.</l>
+               <l>Neuer was ſo myraculous a ſtrife</l>
+               <l>Where admiration euer ſo abounded;</l>
+               <pb n="35" facs="tcp:173391:23"/>
+               <l>Where wonders were ſo prodigally rife,</l>
+               <l>That to beholde it Nature ſtood confounded.</l>
+               <l>Caſting his rod a Serpent that became,</l>
+               <l>Which he ſuppoſ'd with maruaile the<g ref="char:cmbAbbrStroke">̄</g> might ſtrike,</l>
+               <l>When euery Prieſt eſſaying in the ſame,</l>
+               <l>By his blacke skill did inſtantly the like:</l>
+               <l>Which <hi>Pharos</hi> breaſt with arrogance doth fill,</l>
+               <l>Aboue the high Gods to exalt his powre,</l>
+               <l>When by his might (t'amate their weaker skill)</l>
+               <l>The Hebrewes Rod doth all their rods deuoure:</l>
+               <l>Which deede of wonder ſleightly he reiects</l>
+               <l>His froward Spirit inſatiatly elate,</l>
+               <l>Which after cauſ'd thoſe violent effects</l>
+               <l>That ſate on <hi>Egipt</hi> with the power of Fate.</l>
+               <l>When he whoſe wiſedome ere the world did fare,</l>
+               <l>From whom not counſaile can her ſecrets hide,</l>
+               <l>Forewarneth <hi>Moyſes</hi> early to prepare</l>
+               <l>T'accoſt the proud King by the riuers ſide.</l>
+               <l>What heauenly rapture doth enrich my braine,</l>
+               <l>And through my blood extrauagantly flowes,</l>
+               <l>That doth tranſport me to that endleſſe maine,</l>
+               <l>vvhereas th'Almightie his high glories ſhowes?</l>
+               <l>That holy heat into my Spirit infuſe,</l>
+               <l>vvherewith thou wont'ſt thy Prophets to inſpire</l>
+               <l>And lend that power to our delightfull <hi>Muſe,</hi>
+               </l>
+               <l>As dwelt in ſounds of that ſweet Hebruack lyre.</l>
+               <pb facs="tcp:173391:24"/>
+               <l>A taske vnuſuall I muſt now aſſay</l>
+               <l>Striuing through perill to ſupport this maſſe,</l>
+               <l>No former foote did euer tract a way,</l>
+               <l>Where I propoſe vnto my ſelfe to paſſe.</l>
+               <l>When <hi>Moyſes</hi> meeting the <hi>Egiptian</hi> King</l>
+               <l>Vrgeth a freſh the Iſraelites depart,</l>
+               <l>And him by <hi>Aron</hi> ſtoutly menacing</l>
+               <l>To trie the temper of his ſtubborne hart.</l>
+               <l>VVhen loe the torrent the fleet hurrying flood
+<note place="margin">The x. Plague.</note>
+               </l>
+               <l>So cleare and perfect Chriſtaline at hand,</l>
+               <l>As a black lake or ſetled mariſh ſtood</l>
+               <l>At th'extenſure of the Hebrewes wand,</l>
+               <l>Where ſegs, ranke Bulruſh, and the ſharpned Reed</l>
+               <l>That with the fluxure of the waue is fed,</l>
+               <l>Might be diſcern'd vnnaturally to bleed,</l>
+               <l>Dying their freſh greene a deepe ſullied red:</l>
+               <l>Like iſſuing vlcers euery little Spring,</l>
+               <l>That being full ripened voyd the filthie core</l>
+               <l>Their lothſome ſlime and matter vomiting</l>
+               <l>Into the Riuers they enrich'd before:</l>
+               <l>VVhat in her banks hath batning <hi>Nilus</hi> bred,</l>
+               <l>Serpent, or Fiſh, or ſtrange deformed thing</l>
+               <l>That on her boſome ſhe not beareth dead,</l>
+               <l>VVhere they were borne them laſtly burying?</l>
+               <l>That Bird and Beaſt incontinently flie</l>
+               <l>From the deteſted and contagious ſtinke,</l>
+               <pb n="37" facs="tcp:173391:24"/>
+               <l>And rather chooſe by cruell thirſt to die,</l>
+               <l>Than once to taſte of this contaminate drinke,</l>
+               <l>And vſefull Ceſternes delicatly fild,</l>
+               <l>VVith which rich <hi>Egipt</hi> wondrouſly abounds,</l>
+               <l>Looking as Bowles receauing what was ſpild</l>
+               <l>From mortall and immedicable wounds.</l>
+               <l>That the faint Earth euen poyſ'ned now remaines</l>
+               <l>In her owne ſelfe ſo grieuouſly deiected,</l>
+               <l>Horrid pollution trauailing her vaines</l>
+               <l>Deſp'rate of cure ſo dangerouſly infected</l>
+               <l>The ſpungie ſoile, that digging deepe and long</l>
+               <l>To ſoke cleare liquor from her plenteous pores,</l>
+               <l>This bloody iſſue breaketh out among</l>
+               <l>As ſickly menſtrues or inueterate ſores:</l>
+               <l>Seuen dayes continuing in this flux of blood,</l>
+               <l>Sadly ſits <hi>Egipt</hi> a full weeke of woe,</l>
+               <l>Shame taints the browe of euery ſtewe and flood,</l>
+               <l>Bluſhing the world her filthines to ſhowe.</l>
+               <l>Yet ſdaines proud <hi>Pharo Jſrael</hi> thus to free,</l>
+               <l>Nor this dire plague his hardned hart can tame,</l>
+               <l>VVhich he ſuppoſ'd but Fallaces to bee,</l>
+               <l>VVhen his Magitians likewiſe did the ſame.</l>
+               <l>VVhen he againe that glorious rod extends</l>
+               <l>Gainſt him that Heauen denies that thus to dare.</l>
+               <l>On <hi>Egipt</hi> ſoone a ſecond plague that ſends,</l>
+               <l>VVhich he till now ſeem'd partially to ſpare</l>
+               <pb facs="tcp:173391:25"/>
+               <l>The ſoile, that late the owner did enrich</l>
+               <l>Him his faire Heards and goodly flocks to feed,</l>
+               <l>Lies now a leyſtall as a common ditch,
+<note place="margin">The 2. Plague.</note>
+               </l>
+               <l>vvhere in their Todder loathly Paddocks breed.</l>
+               <l>Where as the vp-land mountanous and hie</l>
+               <l>To them that ſadly doe beholde it ſhowes</l>
+               <l>As though in labour with this filthie frie</l>
+               <l>Stirring with paine in the parturious throwes:</l>
+               <l>People from windowes looking to the ground,</l>
+               <l>At this ſtupendious ſpectacle amazed,</l>
+               <l>See but their ſorrowe euery where abound,</l>
+               <l>That moſt abhorring whereon moſt they gazed.</l>
+               <l>Their Troughes and Ouens Toadſtooles now become,</l>
+               <l>That Huſwifes wont ſo carefully to keepe,</l>
+               <l>Theſe loathſome Creatures taking vp the roome,</l>
+               <l>A croking there continually doe keepe.</l>
+               <l>And as great <hi>Pharo</hi> on his Throne is ſet,</l>
+               <l>From thence affrighted with this odious thing,</l>
+               <l>vvhich crawling vp into the ſame doth get,</l>
+               <l>And him depoſing ſitteth as a King.</l>
+               <l>The wearied man his ſpirits that to refreſh,</l>
+               <l>Gets to his bed to free him from this feare,</l>
+               <l>Scarſe lai'd but feeles them at his naked fleſh,</l>
+               <l>So ſmall the ſuccour that remaineth there.</l>
+               <l>No Court ſo cloſe to which the ſpeckled Toad</l>
+               <l>By ſome ſmall crannie creepes not by and by,</l>
+               <pb n="39" facs="tcp:173391:25"/>
+               <l>No Tower ſo ſtrong nor naturall aboad,</l>
+               <l>To which for ſafetie any one might flie:</l>
+               <l>
+                  <hi>Egipt</hi> now hates the world her ſo ſhould call,</l>
+               <l>Of her owne ſelfe ſo grieuouſly aſham'd,</l>
+               <l>And ſo contemned in the eies of all,</l>
+               <l>As but in ſcorne ſhe ſcarſlie once is nam'd.</l>
+               <l>VVhen this prophane King with a wounded hart</l>
+               <l>(His <hi>Magi</hi> though theſe myracles could doe)</l>
+               <l>Sees in his ſoule one greater than their Art,</l>
+               <l>Aboue all power, that put a hand thereto:</l>
+               <l>But as theſe plagues and ſad afflictions ceaſ'd,</l>
+               <l>At the iuſt prayer of this milde godlike man,</l>
+               <l>So <hi>Pharoes</hi> pride and ſtubbornnes encreaſ'd,</l>
+               <l>And his lewd courſe this headſtrong Mortall ran.</l>
+               <l>VVhich might haue ſurelier ſetled in his minde</l>
+               <l>(At his requeſt which <hi>Moyſes</hi> quickly ſlewe,</l>
+               <l>Leauing a ſtench ſo peſtilent behinde)</l>
+               <l>As might preſerue olde ſorrowes freſhly newe.</l>
+               <l>But ſtay my <hi>Muſe</hi> in height of all this ſpeed,</l>
+               <l>Somewhat plucks back to quench this ſacred heate,</l>
+               <l>And many perils doth to vs areed</l>
+               <l>In that whereof we ſeriouſly entreate.</l>
+               <l>Leſt too conciſe iniuriouſly we wrong</l>
+               <l>Thigns that ſuch ſtate and fearefulnes impart,</l>
+               <l>Or led by zeale irregularly long,</l>
+               <l>Infringe the curious liberties of Art.</l>
+               <pb facs="tcp:173391:26"/>
+               <l>We that calumnious Critick may eſchewe</l>
+               <l>That blaſteth all things with his poyſ'ned breath,</l>
+               <l>Detracting what laboriouſly we doe,</l>
+               <l>Onely with that which he but idely ſaith.</l>
+               <l>O be our guide whoſe glories now we preach</l>
+               <l>That aboue Bookes muſt ſteere vs in our Fate,</l>
+               <l>For neuer Ethnick to this day did teach</l>
+               <l>(In this) whoſe method we might imitate.</l>
+               <l>VVhen now theſe men of myracle proceed,</l>
+               <l>And by extending of that wondrous wand</l>
+               <l>As that reſiſtleſſe prouidence decreed,</l>
+               <l>Thereby brings Lyce on the diſtemp'red Land:
+<note place="margin">The 3. Plague.</note>
+               </l>
+               <l>All ſtrooke with Lyce ſo numberleſſe they lie,</l>
+               <l>The duſt growne quick in euery place doth creepe,</l>
+               <l>The ſands their want doe ſecondly ſupplie,</l>
+               <l>As they at length would ſuffocate the deepe:</l>
+               <l>That th'<hi>atomi</hi> that in the beames appeare,</l>
+               <l>As they the Sunne through cranies ſhining ſee,</l>
+               <l>The forme of thoſe deteſted things doe beare,</l>
+               <l>So miſerable the <hi>Egiptians</hi> bee:</l>
+               <l>Who rak'd the brands the paſſed Euening burn'd</l>
+               <l>(As is the vſe the Mornings fire to keepe)</l>
+               <l>To theſe foule vermine findes the aſhes turn'd,</l>
+               <l>Couering the harth, ſo thick thereon they creepe:</l>
+               <l>Now Prince and peſant equally are dreſt,</l>
+               <l>The coſtlieſt ſilkes and courſeſt rags alike,</l>
+               <pb n="41" facs="tcp:173391:26"/>
+               <l>The worſt goes now companion with the beſt,</l>
+               <l>The hand of God ſo generally doth ſtrike.</l>
+               <l>The Kings Pauillion and the Captiues pad</l>
+               <l>Are now in choiſe indifferent vnto either,</l>
+               <l>Great, ſmall, faire, foule, rich, poore, the good &amp; bad</l>
+               <l>Doe ſuffer in this peſtilence together,</l>
+               <l>In vaine to cleanſe, in vaine to purge, and picke,</l>
+               <l>vvhen euery Moath that with the breath doth riſe</l>
+               <l>Forthwith appeareth venemouſly quicke,</l>
+               <l>Although ſo ſmall ſcarſe taken by the eies.</l>
+               <l>By which his wiſedome ſtrongly doth preuaile,</l>
+               <l>When this ſelfe-wiſe, this ouerweening man,</l>
+               <l>Euen in the leaſt the ſlighteſt thing doth faile,</l>
+               <l>The very beggar abſolutly can,</l>
+               <l>When now theſe Wizards with transfixed harts</l>
+               <l>To make his glory by the ſame the more,</l>
+               <l>Confeſſe a Godhead ſhining through their Arts,</l>
+               <l>vvhich by their Magicks they deni'd before.</l>
+               <l>Yet this proud <hi>Pharo</hi> as oppugning fate</l>
+               <l>Still doth reſiſt that Maieſtie ſo hie,</l>
+               <l>And to himſelfe doth yet appropriate</l>
+               <l>A ſupreame power his Godhead to denie.</l>
+               <l>When from his wilfull ſtubbornnes doth growe</l>
+               <l>That great amazement to all eares and eies,</l>
+               <l>When now the Lord by <hi>Arons</hi> Rod will ſhowe</l>
+               <l>His mightie power euen in the wretched'ſt flies,
+<note place="margin">The 4. plague.</note>
+               </l>
+               <pb facs="tcp:173391:27"/>
+               <l>Varying his vengeance in as many kindes,</l>
+               <l>As <hi>Pharo</hi> doth his obſtinacies varie,</l>
+               <l>Suting his plagues ſo fitly with their mindes,</l>
+               <l>As though their ſinne his puniſhments did carie.</l>
+               <l>In Sommer time as in an Euening faire,</l>
+               <l>The Gnats are heard in a tumultuous ſound</l>
+               <l>On tops of hils, ſo troubled is the aire</l>
+               <l>To the diſturbance of the wondring ground.</l>
+               <l>The skies are darkned as they yet doe houer</l>
+               <l>In ſo groſſe clouds congeſted in their ſlight,</l>
+               <l>That the whole Land with multitudes they couer,</l>
+               <l>Stopping the ſtreames as generally the light.</l>
+               <l>O cruell Land, might theſe not yet thee moue?</l>
+               <l>Art thou alone ſo deſtitute of feare?</l>
+               <l>Or doeſt thou meane thy vtmoſt to approue</l>
+               <l>How many plagues thou able art to beare?</l>
+               <l>Three haue forethreatned thy deſtruction ſure,</l>
+               <l>And now the fourth is following on as faſt,</l>
+               <l>Doeſt thou ſuppoſe thy pride can ſtill endure?</l>
+               <l>Or that his vengeance longer cannot laſt?</l>
+               <l>Theſe are as weake and worthleſſe as the reſt,</l>
+               <l>Thou much enfeebled, and his ſtrength is more,</l>
+               <l>Fitly prepar'd thee ſadly to infeſt</l>
+               <l>Thy ſinnes ſo many, by their equall ſtore.</l>
+               <l>This wretched creature man might well ſuppoſe</l>
+               <l>To be the leaſt that he had neede to feare,</l>
+               <pb n="43" facs="tcp:173391:27"/>
+               <l>Amongſt the reſt is terrifi'd with thoſe</l>
+               <l>vvith which before none euer troubled were.</l>
+               <l>As we beholde a ſwarming caſt of Bees</l>
+               <l>In a ſwolne cluſter to ſome branch to cleaue:</l>
+               <l>Thus doe they hang in bunches on the trees,</l>
+               <l>Preſſing each plant and loding eu'rie greaue.</l>
+               <l>The houſes couered with theſe muſt'ring flies,</l>
+               <l>And the faire windowes that for light were made,</l>
+               <l>Eclipſ'd with horror ſeeming to their eies</l>
+               <l>Like the dim twilight or ſome omenous ſhade.</l>
+               <l>For humane food what <hi>Egipt</hi> had in ſtore,</l>
+               <l>The creatures feede on, till they burſting die,</l>
+               <l>And what in this vnhappie Land was more,</l>
+               <l>Their loathſome bodies laſtly putrifie.</l>
+               <l>O goodly <hi>Goſhen</hi> where the Hebrewes reſt,</l>
+               <l>How deare thy children in th'Almighties ſight,</l>
+               <l>That for their ſakes thou onely ſhould'ſt be bleſt,</l>
+               <l>When all theſe plagues on the <hi>Egiptians</hi> light?</l>
+               <l>What promiſ'd people reſted thee within,</l>
+               <l>To whom no perill euer might aſpire,</l>
+               <l>For whoſe deare ſake ſome watchfull Cherubin</l>
+               <l>Stoode to defend thee arm'd in glorious fire?</l>
+               <l>Thou art that holy Sancttuarie made,</l>
+               <l>Where all th'afflicted caſt aſide their feare,</l>
+               <l>Whoſe priuiledges euer to inuade,</l>
+               <l>The Heauens co<g ref="char:cmbAbbrStroke">̄</g>maund their horrours to forbeare.</l>
+               <pb facs="tcp:173391:28"/>
+               <l>But ſince mans pride and inſolence is ſuch,</l>
+               <l>Nor by theſe plagues his will to paſſe could bring,</l>
+               <l>Now with a ſharpe and wounding hand will tuch</l>
+               <l>The dearer body of each liuing thing:</l>
+               <l>To other ends his courſes to direct</l>
+               <l>By all great meanes his glory to aduance,</l>
+               <l>Altreth the cauſe by altring the effect,</l>
+               <l>To worke by wonder their deliuerance.</l>
+               <l>As <hi>Aron</hi> graſping aſhes in his hand,</l>
+               <l>vvhich ſcarſly caſt into the open aire,</l>
+               <l>But brings a murraine ouer all the Land,</l>
+               <l>vvith ſcabs and botches ſuch as neuer were.
+<note place="margin">The 5. Plague.</note>
+               </l>
+               <l>What chewes the cud, or hoofe, or horne alotted,</l>
+               <l>vvilde in the fields, or tamed by the yoke,</l>
+               <l>vvith this contagious peſtilence is rotted,</l>
+               <l>So vniuerſall's the Almighties ſtroke.</l>
+               <l>The goodly horſe of hote and fierie ſtraine</l>
+               <l>In his high courage hardly brook'd his food,</l>
+               <l>That ditch nor mound not lately could containe</l>
+               <l>On the firme ground ſo ſcornfully that ſtood,</l>
+               <l>Creſt-falne hangs downe his hardly mannag'd head</l>
+               <l>Lies where but late diſdainfully he troad,</l>
+               <l>His quicke eye fixed heauily and dead,</l>
+               <l>Stirres not when prick'd with the impulſiue goad.</l>
+               <l>The Swine which Nature ſecretly doth teach,</l>
+               <l>Onely by faſting ſickneſſes to cure.</l>
+               <pb n="45" facs="tcp:173391:28"/>
+               <l>Now but in vaine is to it ſelfe a Leech</l>
+               <l>vvhoſe ſodaine end infallably is ſure.</l>
+               <l>VVhere frugall Shepheardes reckoning wooll and lambe,</l>
+               <l>Or who by Heards hop'd happilie to winne,</l>
+               <l>Now ſees the young one periſh with the dame,</l>
+               <l>Nor dare his hard hand touch the poiſ'ned skinne.</l>
+               <l>Thoſe fertile paſtures quickly ouer-ſpread</l>
+               <l>vvith their dead Cattell, where the birds of pray</l>
+               <l>Gorg'd on the garbidge (wofullie beſtead)</l>
+               <l>Poiſ'ned fall downe as they would flie away.</l>
+               <l>And hungrie dogs the tainted fleſh refrain'd,</l>
+               <l>vvhereon their Maiſter gurmondiz'd of late,</l>
+               <l>vvhat Nature for mans appetite ordain'd,</l>
+               <l>The creature that's moſt rauenous doth hate.</l>
+               <l>Thus all that breathes and kindly hath encreaſe,</l>
+               <l>Suffer for him that proudlie did offend,</l>
+               <l>Yet in this manner heere it ſhall not ceaſe,</l>
+               <l>In Beaſts begun, in wretched man to end.</l>
+               <l>To whom it further violently can
+<note place="margin">The 6. pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gue.</note>
+               </l>
+               <l>Not by th'Almightie limmited to ſlake,</l>
+               <l>As beaſt is plagued for rebellious man,</l>
+               <l>Man in ſome meaſure muſt his paine partake.</l>
+               <l>Thoſe daintie breaſts that op'ned lately were,</l>
+               <l>Which with rich vaines ſo curiouſlie did flowe,</l>
+               <l>With biles &amp; blaines moſt loathſome doe appeare,</l>
+               <l>Which now the Dam'zell not deſires to ſhowe.</l>
+               <pb facs="tcp:173391:29"/>
+               <l>Features disfigur'd onely now the faire</l>
+               <l>(All are deformed) moſt ill-fauour'd bee,</l>
+               <l>Where beautie was moſt exquiſite and rare,</l>
+               <l>There the leaſt blemiſh eaſili'ſt you ſee.</l>
+               <l>For coſtly garments faſhion'd with deuice</l>
+               <l>To forme each choiſe part curious eies to pleaſe,</l>
+               <l>The ſicke mans Gowne is onely now in price</l>
+               <l>To giue their bloch'd and bliſtered bodies eaſe.</l>
+               <l>It is in vaine the Surgeons hand to proue,</l>
+               <l>Or helpe of phiſicke to aſſwage the ſmart,</l>
+               <l>For why the power that ruleth from aboue</l>
+               <l>Croſſeth all meanes of induſtrie and Art.</l>
+               <l>
+                  <hi>Egipt</hi> is now an Hoſpitall forlorne,</l>
+               <l>Where onely Creeples and diſeaſed are,</l>
+               <l>How many Children to the world are borne,</l>
+               <l>So many Lazers thither ſtill repaire.</l>
+               <l>When thoſe proud <hi>Magi</hi> as oppoſ'd to Fate,</l>
+               <l>That durſt high Heau'n in eu'ry thing to dare,</l>
+               <l>Now in moſt vile and miſerable ſtate</l>
+               <l>As the mean'ſt Caitiue equally doe fare.</l>
+               <l>Thus ſtands that man ſo eminent alone,</l>
+               <l>Arm'd with his power that gouerneth the skie,</l>
+               <l>Now when the Wizards laſtly ouerthrowne,</l>
+               <l>Groueling in ſores before his feete doe lie.</l>
+               <l>Not one is found vnpuniſhed eſcapes</l>
+               <l>So much to doe his hungrie wrath to feede,</l>
+               <pb n="47" facs="tcp:173391:29"/>
+               <l>Which ſtill appeareth in as many ſhapes</l>
+               <l>As <hi>Pharo</hi> doth in tyrannies proceede.</l>
+               <l>Euen as ſome graue wiſe Magiſtrate to finde</l>
+               <l>Out ſome vile treaſon, or ſome odious crime</l>
+               <l>That beareth euery circumſtance in minde,</l>
+               <l>Of place, of manner, inſtance, and of time:</l>
+               <l>That the ſuſpected ſtrongly doth areſt,</l>
+               <l>And by all meanes inuention can deuiſe</l>
+               <l>By hopes or torture out of him to wreſt</l>
+               <l>The ground, the purpoſe, and confederacies,</l>
+               <l>Now ſlacks his payne, now doth the ſame augment,</l>
+               <l>Yet in his ſtrait hand doth containe him ſtill,</l>
+               <l>Proportioning his alotted puniſhment</l>
+               <l>As hee's remou'd or pliant to his will.</l>
+               <l>But yet hath <hi>Egipt</hi> ſomewhat left to vaunt,</l>
+               <l>What's now remaining may her pride repaire,</l>
+               <l>But leaſt ſhe ſhould perhaps be arrogant,</l>
+               <l>Till ſhe be humbled he will neuer ſpare.</l>
+               <l>Theſe plagues ſeeme yet but nouriſhed beneath,</l>
+               <l>And euen with man terreſtrially to moue,</l>
+               <l>Now Heauen his furie violently ſhall breath,</l>
+               <l>Rebellious <hi>Egipt</hi> ſcourging from aboue.</l>
+               <l>Winter let looſe,
+<note place="margin">The 7. plague.</note> in his robuſtious kinde</l>
+               <l>Wildly runnes rauing through the airie plaines,</l>
+               <l>As though his time of libertie aſſign'd</l>
+               <l>Roughly now ſhakes off his impriſ'ning chaines.</l>
+               <pb facs="tcp:173391:30"/>
+               <l>The winds ſpet fire in one anothers face,</l>
+               <l>And mingled flames fight furiouſly together,</l>
+               <l>Through the mild Heaue<g ref="char:cmbAbbrStroke">̄</g> that one the other chace,</l>
+               <l>Now flying thence and then returning thether.</l>
+               <l>No light but lightning ceaſeleſly to burne</l>
+               <l>Swifter than thought from place to place to paſſe,</l>
+               <l>And being gone doth ſodainly returne</l>
+               <l>Ere you could ſay preciſely that it was.</l>
+               <l>In one ſelfe moment darknes and the light</l>
+               <l>Inſtantly borne, as inſtantly they die,</l>
+               <l>And euery minute is a day and night</l>
+               <l>That breakes and ſets in twinkling of an eie.</l>
+               <l>Mountaine and valley ſuffer one ſelfe ire,</l>
+               <l>The ſtately Tower and lowlie coate alike,</l>
+               <l>The ſhrub and Cedar this impartiall fire</l>
+               <l>In one like order generally doth ſtrike.</l>
+               <l>On fleſh and plant this ſubtill lightning praies,</l>
+               <l>As through the pores it paſſage fitly findes,</l>
+               <l>In the full wombe the tender burthen ſlaies,</l>
+               <l>Piercing the ſtiffe trunk through the ſpungie rindes.</l>
+               <l>Throughout this great and vniuerſall Ball</l>
+               <l>The wrath of Heauen outragiouſly is throwne,</l>
+               <l>As the lights quickning and Celeſtiall,</l>
+               <l>Had put themſelues together into one.</l>
+               <l>This yet continuing the big-bellied clouds,</l>
+               <l>With heate and moiſture in their fulnes brake,</l>
+               <pb n="49" facs="tcp:173391:30"/>
+               <l>And the ſterne thunder from the ayrie ſhrouds</l>
+               <l>To the ſad world in feare and horrour ſpake.</l>
+               <l>The black ſtorme bellowes and the yerning vault,</l>
+               <l>Full charg'd with furie as ſome ſignall giuen,</l>
+               <l>Preparing their artillirie t'aſſault,</l>
+               <l>Shoot their ſterne vollies in the face of Heauen.</l>
+               <l>The bolts new wing'd with fork'd Aethereall fire,</l>
+               <l>Through the vaſt Region euery where doe roue,</l>
+               <l>Goring the earth in their impetuous ire,</l>
+               <l>Peirce the proud'ſt building, rend the thickeſt Groue.</l>
+               <l>When the breeme haile as riſing in degrees</l>
+               <l>Like ruffled arrowes through the aire doth ſing,</l>
+               <l>Beating the leaues and branches from the trees,</l>
+               <l>Forcing an Autumne earlier than the Spring.</l>
+               <l>The birds late ſhrouded in their ſafe repaire,</l>
+               <l>Where they were wont from Winters wrath to reſt,</l>
+               <l>Left by the tempeſt to the open aire</l>
+               <l>Shot with cold bullets through the trembling breſt.</l>
+               <l>Whilſt cattell graſing on the batfull ground,</l>
+               <l>Finding no ſhelter from the ſhowre to hide</l>
+               <l>In ponds and ditches willingly are drownd,</l>
+               <l>That this ſharpe ſtorme no longer can abide.</l>
+               <l>Windowes are ſhiuered to forgotten duſt,</l>
+               <l>The ſlates fall ſhatt'red from the roofe aboue,</l>
+               <l>Where any thing findes harbour from this guſt,</l>
+               <l>Now euen as death it feareth to remoue.</l>
+               <pb facs="tcp:173391:31"/>
+               <l>The rude and moſt impenitrable rock</l>
+               <l>Since the foundation of the world was lai'd,</l>
+               <l>Neuer before ſtir'd with tempeſtious ſhock,</l>
+               <l>Melts with this ſtorme as ſenſibly afrai'd.</l>
+               <l>Neuer yet with ſo violent a hand,</l>
+               <l>A brow contracted and ſo full of feare,</l>
+               <l>God ſcourg'd the pride of a rebellious Land,</l>
+               <l>Since into Kingdomes Nations gathered were,</l>
+               <l>But he what Mortall was there euer knowne,</l>
+               <l>So many ſtrange afflictions did abide</l>
+               <l>On whom ſo many miſeries were throwne,</l>
+               <l>Whom Heauen ſo oft and angerly did chide?</l>
+               <l>Who but relenting <hi>Moyſes</hi> doth relieue?</l>
+               <l>Taking off that which oft on him doth light,</l>
+               <l>Whom God ſo oft doth puniſh and forgiue,</l>
+               <l>Thereby to proue his mercie and his might.</l>
+               <l>So that eternall prouidence could frame</l>
+               <l>The meane whereby his glory ſhould be tride,</l>
+               <l>That as he pleaſe miraculouſly can tame</l>
+               <l>Mans ſenſuall wayes, his tranſitorie pride.</l>
+               <l>But <hi>Pharo</hi> bent to his rebellious will,</l>
+               <l>His hate to <hi>Jſrael</hi> inſtantly renues,</l>
+               <l>Continuing Author of his proper ill,</l>
+               <l>When now the plague of Graſhoppers enſues.</l>
+               <l>Long ere they fell,
+<note place="margin">The 8. pl<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gue.</note> on'th face of Heauen they hong,</l>
+               <l>In ſo vaſt clouds as couered all the skies,</l>
+               <pb n="51" facs="tcp:173391:31"/>
+               <l>Colouring the Sun-beames piercing through their throng</l>
+               <l>With ſtrange diſtraction to beholding eies.</l>
+               <l>This idle creature that is ſaid to ſing</l>
+               <l>In wanton Sommer, and in Winter poore,</l>
+               <l>Praiſing the Emmets painfull labouring,</l>
+               <l>Now eates the labourer and the heaped ſtore.</l>
+               <l>No blade of graſſe remaineth to be ſeene,</l>
+               <l>Weed, hearb, nor flower, to which the Spring giues birth,</l>
+               <l>Yet eu'ry path euen barren hills are greene,</l>
+               <l>With thoſe that eate the greenenes from the earth.</l>
+               <l>What is moſt ſweet, what moſt extreamely ſowre,</l>
+               <l>The loathſome Hemlock as the verdurous Roſe,</l>
+               <l>Theſe filthy Locuſts equally deuowre,</l>
+               <l>So doe the Heauens of euery thing diſpoſe.</l>
+               <l>The trees all barckles nakedly are left</l>
+               <l>Like people ſtrip'd of things that they did weare,</l>
+               <l>By the enforcement of diſaſt'rous theft,</l>
+               <l>Standing as frighted with erected haire.</l>
+               <l>Thus doth the Lord her nakednes diſcouer,</l>
+               <l>Thereby to proue her ſtoutnes to reclame,</l>
+               <l>That when nor feare, nor puniſhment could moue her,</l>
+               <l>Shee might at length be tempred with her ſhame.</l>
+               <l>Diſrob'd of all her ornament ſhe ſtands,</l>
+               <l>Wherein rich Nature whilome did her dight,</l>
+               <l>That the ſad vierges of the neighbouring lands</l>
+               <l>Seeme with much ſorrowe wondring at the ſight.</l>
+               <pb facs="tcp:173391:32"/>
+               <l>But <hi>Egipt</hi> is ſo impudent and vile,</l>
+               <l>No bluſh is ſeene that pittie might compell,</l>
+               <l>That from all eies to couer her awhile,</l>
+               <l>The Lord in darknes leaueth her to dwell.</l>
+               <l>Ouer the great and vniuerſall face
+<note place="margin">The 9. plague.</note>
+               </l>
+               <l>Are drawne the Curtaines of the horrid night,</l>
+               <l>As it would be continually in place,</l>
+               <l>That from the world had baniſhed the light.</l>
+               <l>As to the ſight, ſo likewiſe to the tuch</l>
+               <l>Th'appropriate obiect equally is dealt,</l>
+               <l>Darknes is now ſo palpable and much,</l>
+               <l>That as 'tis ſeene, as eaſily is felt.</l>
+               <l>Who now it hap'd to trauell by the way,</l>
+               <l>Or in the field did chance abroad to rome,</l>
+               <l>Looſing himſelfe then wandred as a ſtray,</l>
+               <l>Nor findes his hoſtrie nor returneth home.</l>
+               <l>The Cocke the Country horologe that rings,</l>
+               <l>The cheerefull warning to the Sunnes awake,</l>
+               <l>Miſſing the dawning ſcantles in his wings,</l>
+               <l>And to his rooſt doth ſadly him betake.</l>
+               <l>One to his neighbour in the darke doth call,</l>
+               <l>When the thick vapour ſo the aire doth ſmother,</l>
+               <l>Making the voice ſo hideous there withall,</l>
+               <l>That one's afeard to goe vnto the other.</l>
+               <l>The little Infant for the Mother ſhreekes,</l>
+               <l>Then lies it downe aſtoniſhed with feare,</l>
+               <pb n="53" facs="tcp:173391:32"/>
+               <l>Who for her Childe whilſt in the darke ſhe ſeekes,</l>
+               <l>Treads on the Babe that ſhe doth holde ſo deare.</l>
+               <l>Darknes ſo long vpon the Land doth dwell,</l>
+               <l>Whilſt men amaz'd the howres are ſtolne away,</l>
+               <l>Erring in time that now there's none can tell,</l>
+               <l>Which ſhould be night, &amp; which ſhould be the day.</l>
+               <l>Three doubled nights the proud <hi>Egiptian</hi> lies</l>
+               <l>With hunger, thirſt, and wearines oppreſt,</l>
+               <l>Onely relieued by his miſeries,</l>
+               <l>By feare enforced to forget the reſt.</l>
+               <l>Thoſe lights and fires they laboured to defend</l>
+               <l>With the foule dampe that ouer all doth flowe</l>
+               <l>Such an eclipſed ſullines doth ſend,</l>
+               <l>That darknes farre more terrible doth ſhowe.</l>
+               <l>When this perplexed and aſtoniſh'd King</l>
+               <l>Twixt rage and feare diſtracted in his minde,</l>
+               <l>
+                  <hi>Jſrael</hi> to paſſe now freely limiting,</l>
+               <l>Onely their cattell to be ſtai'd behinde.</l>
+               <l>Commaunding <hi>Moyſes</hi> to depart his ſight,</l>
+               <l>And from that time to ſee his face no more,</l>
+               <l>Which this milde man doth willingly aquite</l>
+               <l>That he well knew would come to paſſe before.</l>
+               <l>That for the Droues the <hi>Jſraelites</hi> ſhould leaue,</l>
+               <l>Forbid by <hi>Pharo</hi> to be borne away:</l>
+               <l>
+                  <hi>Jſrael</hi> ſhall <hi>Egipt</hi> of her ſore bereaue,</l>
+               <l>To beare it with her as a violent pray.</l>
+               <pb facs="tcp:173391:33"/>
+               <l>So wrought her God in the <hi>Egiptians</hi> thought,</l>
+               <l>As he is onely prouident and wiſe,</l>
+               <l>That he to paſſe for his choiſe people brought,</l>
+               <l>More than mans wiſedome euer might deuiſe.</l>
+               <l>Touching their ſoft breaſts with a wounding loue</l>
+               <l>Of thoſe who yet they enuiouſly admir'd,</l>
+               <l>Which doth the happy <hi>Jacobites</hi> behoue,</l>
+               <l>To compaſſe what they inſtantly require.</l>
+               <l>That euery Hebrew borrowed of a friend,</l>
+               <l>Some ſpeciall Iewell fainedly to vſe,</l>
+               <l>Euery <hi>Egiptian</hi> willing is to lend,</l>
+               <l>Nor being ask'd can poſſibly refuſe.</l>
+               <l>Now Cloſets, Cheſts, and Cabinets are ſought</l>
+               <l>For the rich Iem, the raritie, or thing,</l>
+               <l>And they the happieſt of the reſt are thought,</l>
+               <l>That the high'ſt priz'd officiouſly could bring.</l>
+               <l>Rings, chaines, and bracelets, iewels for the eare,</l>
+               <l>The perfect glorious, and moſt luſtrous ſtone,</l>
+               <l>The Carcanet ſo much requeſted there,</l>
+               <l>The pearle moſt orient and a Paragon.</l>
+               <l>What thing ſo choiſe that curious Art could frame,</l>
+               <l>Luxurious <hi>Egipt</hi> had not for her pride?</l>
+               <l>And what ſo rare an <hi>Jſralite</hi> could name,</l>
+               <l>That he but asking was thereof denide?</l>
+               <l>When God doth now the Paſſeouer command,</l>
+               <l>Whoſe name that ſacred miſterie doth tell,</l>
+               <pb n="55" facs="tcp:173391:33"/>
+               <l>That he paſſ'd o're them with a ſparefull hand,</l>
+               <l>When all the firſt borne of th'<hi>Egiptians</hi> fell,</l>
+               <l>Which ſhould to their poſteritie be taught,</l>
+               <l>That might for euer memorize this deede,</l>
+               <l>The fearefull wonders he in <hi>Egipt</hi> wrought,</l>
+               <l>For <hi>Abrahams</hi> ofspring <hi>Saras</hi> promiſ'd ſeede.</l>
+               <l>A Lambe vnblemiſh'd, or a ſpotleſſe Kid,</l>
+               <l>That from the dam had wained out a yeere,</l>
+               <l>Which he without deformitie did bid,</l>
+               <l>Helde to himſelfe a ſacrifice ſo deere.</l>
+               <l>Roſted and eaten with vnleau'ned bread,</l>
+               <l>And with ſower hearbs ſuch viands as became,</l>
+               <l>Meate for the Eu'ning, that prohibited</l>
+               <l>The Morne enſuing partner of the ſame.</l>
+               <l>Girding their loynes, ſhooes faſtned to their feete,</l>
+               <l>Staues in their hands, and paſſing it to take,</l>
+               <l>In manner as to trauailers is meete,</l>
+               <l>A voyage forth immediatly to make.</l>
+               <l>Whoſe blood being put vpon the vtmoſt poſts,</l>
+               <l>vvhereby his choſen <hi>Jſraelites</hi> he knewe,</l>
+               <l>That night ſo dreadfull, when the Lord of Hoſts</l>
+               <l>All the firſt borne of the <hi>Egiptians</hi> ſlewe.</l>
+               <l>Darknes inuades the world when now forth went
+<note place="margin">The 10. Plague.</note>
+               </l>
+               <l>The ſpoiling Angell as the Lord did will,</l>
+               <l>And where the dore with blood was not beſprent,</l>
+               <l>There the firſt borne he cruelly did kill.</l>
+               <pb facs="tcp:173391:34"/>
+               <l>Night neuer ſawe ſo tragicall a deed,</l>
+               <l>Thing ſo repleate with heauines and ſorrowe,</l>
+               <l>Nor ſhall the day heereafter euer reade,</l>
+               <l>Such a blacke time as the inſuing morrowe.</l>
+               <l>The dawne now breaking and with open ſight</l>
+               <l>VVhen euery lab'ring and affrighted eie</l>
+               <l>Beholdes the ſlaughter of the paſſed night,</l>
+               <l>The parting plague protracted miſerie.</l>
+               <l>And to his neighbour haſts his heedleſſe feete,</l>
+               <l>To bring him home his heauie chaunce to ſee,</l>
+               <l>And him he goes to by the way doth meete,</l>
+               <l>As greeued and as miſerable as hee.</l>
+               <l>Who out of dore now haſtily doth come,</l>
+               <l>Thinking to howle and bellowe forth his woe,</l>
+               <l>Is for his purpoſe deſtitute of roome,</l>
+               <l>Each place with ſorrowe doth ſo ouerflowe</l>
+               <l>People awaked with this ſodaine fright</l>
+               <l>Runne forth their dores as naked as they bee,</l>
+               <l>Forget the day, and bearing candle light</l>
+               <l>To helpe the Sonne their miſeries to ſee.</l>
+               <l>Who loſt his firſt borne ere this plague begun,</l>
+               <l>Is now moſt happie in this time of woe,</l>
+               <l>Who mourn'd his eld'ſt a daughter or a ſonne,</l>
+               <l>Is now exempt from what the reſt muſt doe.</l>
+               <l>To one that faines poore comfort to his friend,</l>
+               <l>His Childe was young and neede the leſſe be car'd,</l>
+               <pb n="57" facs="tcp:173391:34"/>
+               <l>Replies if his had liu'd the others end,</l>
+               <l>vvithall his hart he could him well haue ſpar'd.</l>
+               <l>No eye can lend a mourning friend one teare,</l>
+               <l>So buſie is the gen'rall hart of moane,</l>
+               <l>Such ſtrange confuſion ſits in euery eare,</l>
+               <l>As wanteth power to entertaine his owne.</l>
+               <l>Imparted woe (the heauie harts reliefe)</l>
+               <l>When it hath done the vtmoſt that it may,</l>
+               <l>Outright is murth'red with a ſecond griefe,</l>
+               <l>To ſee one mute tell more than it can ſay.</l>
+               <l>The greateſt bleſſing that the hart could giue,</l>
+               <l>The ioy of Children in the maried ſtate,</l>
+               <l>To ſee his curſe the parent now doth liue,</l>
+               <l>And none be happy but th'infortunate.</l>
+               <l>Whilſt ſome for buriall of their Children ſtay,</l>
+               <l>Others paſſe by with theirs vpon the Beere,</l>
+               <l>Which fro<g ref="char:cmbAbbrStroke">̄</g> the Church meete Mourners by the way,</l>
+               <l>Others they finde that yet are burying there.</l>
+               <l>Afflicted <hi>London,</hi> in ſixe hundred three</l>
+               <l>When God thy ſinne ſo grieuouſly did ſtrike,</l>
+               <l>And from th'infection that did ſpring from thee,</l>
+               <l>The ſpacious Ile was patient of the like.</l>
+               <l>That ſickly ſeaſon when I vndertooke</l>
+               <l>This compoſition faintly to ſupplie,</l>
+               <l>When thy affliction ſeru'd me for a booke,</l>
+               <l>Whereby to modell <hi>Egipts</hi> miſeries,</l>
+               <pb facs="tcp:173391:35"/>
+               <l>When pallid horrour did poſſeſſe thy ſtreete,</l>
+               <l>Nor knew thy Children refuge where to haue,</l>
+               <l>Death them ſo ſoone in euery place did meete,</l>
+               <l>Vnpeopling houſes to poſſeſſe the graue.</l>
+               <l>VVhen wofull <hi>Egipt</hi> with a wounded hart</l>
+               <l>So many plagues that ſuffred for their ſtay,</l>
+               <l>Now on their knees entreate them to depart,</l>
+               <l>And euen impatient of their long delay.</l>
+               <l>Sixe hundred thouſand <hi>Iſraelites</hi> depart,</l>
+               <l>Beſides the Nations that they thence releaſ'd,</l>
+               <l>And Hebrew Babes the ioy of many a hart,</l>
+               <l>That <hi>Saras</hi> happie promiſes had bleſſ'd.</l>
+               <l>After foure hundred thirtie yeeres exſpir'd,</l>
+               <l>(Meaſuring by minutes many a wofull hower)</l>
+               <l>That day they came they thence againe depart,</l>
+               <l>By his eternall prouidence and power.</l>
+               <l>With all the iewels <hi>Egipt</hi> could afford</l>
+               <l>With them away that wiſely they did beare,</l>
+               <l>Th'<hi>Egiptians</hi> aske not to haue backe reſtor'd,</l>
+               <l>All then ſo buſie at their burials were:</l>
+               <l>And <hi>Joſephs</hi> bones preciſelie thence conuay,</l>
+               <l>Whoſe Tombe by <hi>Nyl's</hi> oft Inundations drown'd,
+<note place="margin">Comeſtor in Exod.</note>
+               </l>
+               <l>(Yet the deceaſed ſtraitlie to obay)</l>
+               <l>By <hi>Moyſes</hi> was miraculouſlie found.</l>
+               <l>Who did in gold that powerfull word ingraue,
+<note place="margin">Petragram<g ref="char:EOLhyphen"/>maton.</note>
+               </l>
+               <l>By which th'Almightie fullie is expreſt,</l>
+               <pb n="59" facs="tcp:173391:35"/>
+               <l>Which bare the mettall floting on the waue,</l>
+               <l>Till or'e his Coffin laſtly it did reſt.</l>
+               <l>As by a ſheepe that ſhew'd them to the ſame,</l>
+               <l>To make them mindfull of the reuerent dead,</l>
+               <l>VVhich Beaſt thence-forth they called by <hi>Ioſephs</hi> name,</l>
+               <l>And whe<g ref="char:cmbAbbrStroke">̄</g> they went from <hi>Egipt</hi> with the<g ref="char:cmbAbbrStroke">̄</g> led.</l>
+               <l>But that he thus did finde his burying place,</l>
+               <l>As we tradition wiſelie may ſuſpect,</l>
+               <l>We onelie this as Hiſtorie embrace,</l>
+               <l>But elſe in faith as fabulous neglect.</l>
+            </lg>
+         </div>
+         <div n="3" type="book">
+            <pb facs="tcp:173391:36"/>
+            <head>The third Booke.</head>
+            <lg>
+               <head>¶ THE ARGVMENT.</head>
+               <l>
+                  <hi>God drownes th'</hi> Egiptians <hi>in his ire,</hi>
+               </l>
+               <l>
+                  <hi>Doth march before his hoſt in fire,</hi>
+               </l>
+               <l>
+                  <hi>From the hard rocks ſtrikes guſhing ſprings,</hi>
+               </l>
+               <l>
+                  <hi>Raines Quailes and Manna, conquers Kings,</hi>
+               </l>
+               <l>
+                  <hi>And fearefull plagues on them doth trie,</hi>
+               </l>
+               <l>
+                  <hi>For murm'ring and idolatrie:</hi>
+               </l>
+               <l>
+                  <hi>Vnto the promiſ'd Land them brought,</hi>
+               </l>
+               <l>
+                  <hi>When it they fortie yeeres had ſought;</hi>
+               </l>
+               <l>Balaam <hi>to bleſſe them he doth ſend,</hi>
+               </l>
+               <l>
+                  <hi>Their good ſucceſſe, milde</hi> Moyſes <hi>end.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>THoſe which at home ſcorn'd <hi>Pharo</hi> &amp; his force,</l>
+               <l>And whoſe departure he did humbly pray,</l>
+               <l>He now purſues with his <hi>Egiptian</hi> horſe</l>
+               <l>And warlike foote to ſpoile them on the way.</l>
+               <l>Where his choiſe people ſtrongly to protect,</l>
+               <l>The onely God of Emperie and might,</l>
+               <pb n="61" facs="tcp:173391:36"/>
+               <l>Before his hoſt his ſtandard doth erect,</l>
+               <l>Aglorious pillar in a field of light,</l>
+               <l>Which he by day in ſable doth vnfolde,</l>
+               <l>To dare the Sonne his Ardour to forbeare;</l>
+               <l>By night conuerts it into flaming golde,</l>
+               <l>Away the coldnes of the ſame to feare.</l>
+               <l>Not by <hi>Philistia</hi> he his force will leade,</l>
+               <l>Though the farre nearer and the happier way,</l>
+               <l>His men of warre a glorious march ſhall tread</l>
+               <l>On the vaſt bowels of the bloodie Sea.</l>
+               <l>And ſends the windes as Currers forth before</l>
+               <l>To make them way from <hi>Pharos</hi> power to flie,</l>
+               <l>And to conuay them to a ſafer ſhore,</l>
+               <l>Such is his might that can make <hi>Oceans</hi> drie.</l>
+               <l>Which by the ſtroke of that commaunding wand,</l>
+               <l>Shoulder the rough ſeas forcibly together,</l>
+               <l>Raiſed as Rampires by that glorious hand,</l>
+               <l>(Twixt which they march) that did conduct the<g ref="char:cmbAbbrStroke">̄</g> the<g ref="char:EOLhyphen"/>ther.</l>
+               <l>The ſurly waues their Rulers will obay'd</l>
+               <l>By him made vp in this confuſed maſſe,</l>
+               <l>Like as an Ambuſh ſecretly were lai'd,</l>
+               <l>To ſet on <hi>Pharo</hi> as his power ſhould paſſe.</l>
+               <l>Which ſoone with wombes inſatiably wide,</l>
+               <l>Looſ'd fro<g ref="char:cmbAbbrStroke">̄</g> their late bou<g ref="char:cmbAbbrStroke">̄</g>ds by th'Almighties powre,</l>
+               <l>Come raging in, encloſing euery ſide,</l>
+               <l>And the <hi>Egiptians</hi> inſtantly deuowre.</l>
+               <pb facs="tcp:173391:37"/>
+               <l>The ſling, the ſwift bowe, and the ſharpned Launce,</l>
+               <l>Floting confuſ'dly on the waters rude,</l>
+               <l>They which theſe weapons lately did aduaunce,</l>
+               <l>Periſh in ſight of them that they purſude.</l>
+               <l>Claſhing of Armours and the rumorous ſound</l>
+               <l>Of the ſterne billowes in contention ſtood,</l>
+               <l>Which to the ſhores doe euerie way rebound,</l>
+               <l>As doth affright the Monſters of the flood.</l>
+               <l>Death is diſcern'd triumphantlie in Armes</l>
+               <l>On the rough Seas his ſlaughterie to keepe,</l>
+               <l>And his colde ſelfe in breath of mortalls warmes,</l>
+               <l>Vpon the dimpled boſome of the deepe.</l>
+               <l>There might you ſee a Checkquer'd Enſigne ſwim</l>
+               <l>About the bodie of the enui'd dead,</l>
+               <l>Serue for a hearſe or couerture to him,</l>
+               <l>Ere while did waft it proudly bout his head.</l>
+               <l>The warlike Chariot turn'd vpon the backe</l>
+               <l>With the dead horſes in their traces tide,</l>
+               <l>Drags their fat carkaſſe though the fornie bracke</l>
+               <l>That drewe itlate vndauntedly in pride.</l>
+               <l>There floats the bard Steed with his Rider dround,</l>
+               <l>Whoſe foote in his capariſon is caſt,</l>
+               <l>Who late with ſharp ſpurs did his Courſer wound,</l>
+               <l>Himſelfe now ridden with his ſtrangled beaſt.</l>
+               <l>The waters conquer (without helpe of hand)</l>
+               <l>For them to take for which they neuer toile,</l>
+               <pb n="63" facs="tcp:173391:37"/>
+               <l>And like a Quarrie caſt them on the land,</l>
+               <l>As thoſe they ſlewe they left to them to ſpoile.</l>
+               <l>In eightie eight at <hi>Douer</hi> that had beene,</l>
+               <l>To view that Nauie (like a mightie wood)</l>
+               <l>Whoſe ſailes ſwept Heauen might eaſ'lie there haue ſeene</l>
+               <l>How puiſſant <hi>Pharo</hi> periſh'd in the flood.</l>
+               <l>When for a conqueſt ſtrictlie they did keepe,</l>
+               <l>Into the channell preſently was pour'd,</l>
+               <l>
+                  <hi>Caſtilian</hi> riches ſcattered on the deepe,</l>
+               <l>That <hi>Spaines</hi> long hopes had ſodainlie deuour'd.</l>
+               <l>Th'afflicted Engliſh rang'd along the Strand</l>
+               <l>To waite what would this threatning power betide,</l>
+               <l>Now when the Lord with a victorious hand</l>
+               <l>In his high iuſtice ſcourg'd th'<hi>Iberian</hi> pride.</l>
+               <l>Hence three daies march to <hi>Mara</hi> leades them on,</l>
+               <l>Where <hi>Surs</hi> wilde Deſarts as the Armie paſt</l>
+               <l>Seemed as from their preſence to haue flone,</l>
+               <l>The mountaines ſtoode ſo miſerably agaſt.</l>
+               <l>Where for with drought they hardlie are beſted,</l>
+               <l>And the foule waters bitter as the gall,</l>
+               <l>That they ſhould through this Wildernes be led</l>
+               <l>To thankleſſe murm'ring preſently they fall.</l>
+               <l>God pointeth <hi>Moyſes</hi> to a precious tree,</l>
+               <l>Whoſe medc'nall branches caſt into the lake,</l>
+               <l>Of that rare vertue he approu'd to bee,</l>
+               <l>The waters ſweet and delicate to make,</l>
+               <pb facs="tcp:173391:38"/>
+               <l>Not that his hand ſtands any way in neede</l>
+               <l>Of mediate meanes his purpoſes to bring,</l>
+               <l>But that in ſtate his wiſedome will proceede</l>
+               <l>To ſhew his power in euery little thing.</l>
+               <l>Nor <hi>Metaphiſicks</hi> fully him confine,</l>
+               <l>All meaſuring ſo immeaſurably great,</l>
+               <l>That doth in Nature euery cauſe combine,</l>
+               <l>This ALL in him ſo amply hath receate.</l>
+               <l>Which might haue learn'd the<g ref="char:cmbAbbrStroke">̄</g> in this helpleſſe caſe,</l>
+               <l>With tribulations willingly to meete,</l>
+               <l>When men with patience troubles doe embrace,</l>
+               <l>How oftentimes it makes affliction ſweete.</l>
+               <l>And his free bountie fully now they found,</l>
+               <l>As they from <hi>Mara</hi> for mount <hi>Sina</hi> made,</l>
+               <l>Pitching in <hi>Elim</hi> in that plentious ground</l>
+               <l>Of pleaſant fountaines and delicious ſhade.</l>
+               <l>But as at <hi>Sur,</hi> ſo they againe at <hi>Sin,</hi>
+               </l>
+               <l>Before of thirſt, of hunger now complaine,</l>
+               <l>Wiſhing they might in <hi>Egipt</hi> ſtill haue bin,</l>
+               <l>where neuer famine all their time did raigne.</l>
+               <l>VVhen clouds of Quailes from the <hi>Arabian</hi> ſhore</l>
+               <l>Vpon the Campe immediatly are ſent,</l>
+               <l>which came ſo long and in ſuch maru'lous ſtore,</l>
+               <l>That with their flight they ſmother'd euery Tent.</l>
+               <l>This glads the Eu'ning, each vnto his reſt,</l>
+               <l>vvith ſoules euen ſated with theſe dainty Cates,</l>
+               <pb n="65" facs="tcp:173391:38"/>
+               <l>And the great goodnes of the Lord confeſt,</l>
+               <l>That in like meaſure each participates.</l>
+               <l>The morne ſtrewes <hi>Manna</hi> all about the hoſt</l>
+               <l>(The meate of Angels) mortals to refreſh,</l>
+               <l>Candying the freſh graſſe, as the Winters froſt,</l>
+               <l>Neuer ſuch bread vnto ſo daintie fleſh.</l>
+               <l>O <hi>Jſrael</hi> pamp'red with this heauenly food,</l>
+               <l>Which elſe to Nations earthly he denies,</l>
+               <l>To raiſe thy ſpirits, to rectifie thy blood</l>
+               <l>With theſe ſo rare celeſtiall purities.</l>
+               <l>Then the fat fleſh-pots they ſo much deſire,</l>
+               <l>Whereon in <hi>Egipt</hi> gluttoning they fed,</l>
+               <l>When they came hungry home from carrying mire</l>
+               <l>Which onely dulnes, and groſſe humors bred.</l>
+               <l>Yet in the ſweetnes and th'abundant ſtore,</l>
+               <l>His power not ſo concluſiuely expreſt,</l>
+               <l>But who tooke moſt not capable of more</l>
+               <l>Then in his <hi>Gomer</hi> he that gathered leaſt.</l>
+               <l>By night corrupting, each day gath'ring new,</l>
+               <l>But for the Sabbath what they did prouide,</l>
+               <l>That day deſcended not that heauenly dewe,</l>
+               <l>That as that day was onely ſanctifide.</l>
+               <l>Thence through thoſe Deſarts deſolate and drie,</l>
+               <l>They reach to <hi>Reph'dem</hi> where as they ſhould paſſe,</l>
+               <l>There was not found a fountaine farre nor nie,</l>
+               <l>Such want of water euery where there was.</l>
+               <pb facs="tcp:173391:39"/>
+               <l>Thither the Lord by <hi>Moyſes</hi> did them bring,</l>
+               <l>His force the faithleſſe <hi>Iſraelites</hi> might know,</l>
+               <l>For euen in the impoſſibleſt thing,</l>
+               <l>He moſt delights his wondrous might to ſhowe.</l>
+               <l>Farre worſe than <hi>Mara</hi> is this fruitleſſe ſoile,</l>
+               <l>For there were waters bitter (though they were)</l>
+               <l>But here are non, thogh ſought with ne're ſuch toile</l>
+               <l>That they from murm'ring longer not forbeare.</l>
+               <l>Commaunding <hi>Moyſes</hi> he ſhould take the Rod,</l>
+               <l>Wherewith in <hi>Egipt</hi> he ſuch wonders wrought,</l>
+               <l>For that moſt wiſe, that ſecret-ſeeing God</l>
+               <l>Saw there were ſom thus reaſoned in their thought.</l>
+               <l>The miſterie of that miraculous wand</l>
+               <l>He did to plagues and fearefull things imply,</l>
+               <l>That <hi>Aron</hi> yet ne're tooke it in his hand,</l>
+               <l>When worke of mercie was atchieu'd thereby.</l>
+               <l>Therefore bids <hi>Moyſes</hi> to this high intent,</l>
+               <l>The ſame to vſe, they viſiblie might ſee,</l>
+               <l>That this which erſt had beene the inſtrument</l>
+               <l>Of iuſtice, ſo of clemencie to bee.</l>
+               <l>Which with a blowe the Cleeues in ſunder crackt,</l>
+               <l>As with an earthquake violently rent,</l>
+               <l>Whence came ſo ſtrong and rough a cateract,</l>
+               <l>That in the ſtones wore gutters as it went.</l>
+               <l>The Springs ſpout forth ſuch plentie, that withall</l>
+               <l>Downe the ſlope ſides it violently ſwept,</l>
+               <pb n="67" facs="tcp:173391:39"/>
+               <l>So diuers wayes ſo various in the fall,</l>
+               <l>Through euerie crannie the cleare water crept.</l>
+               <l>In Pailes, Kits, Diſhes, Baſons, Pinboukes, Bowles,</l>
+               <l>Their ſcorched boſomes merilie they baſte,</l>
+               <l>Vntill this verie power their thirſtie ſoules</l>
+               <l>Neuer touch'd water of ſo ſweet a taſte.</l>
+               <l>Scarſlie ſuffic'd but in the verie neck</l>
+               <l>Of this, tis bruted by the watchfull poſt,</l>
+               <l>That the neere-bording enuious <hi>Amaleck,</hi>
+               </l>
+               <l>Was marching towards them with a mightie hoſt.</l>
+               <l>When he forth <hi>Joſua</hi> from the reſt doth drawe,</l>
+               <l>A man ſelected, of couragious ſpirit,</l>
+               <l>Which <hi>Moyſes</hi> with prophetick eie foreſawe,</l>
+               <l>Should be the man, his roome that ſhould inherit.</l>
+               <l>Commaunding him to muſter out of hand,</l>
+               <l>And draw his forces preſently to head,</l>
+               <l>Againſt that proud <hi>Amalakite</hi> to ſtand,</l>
+               <l>Which in the field a puiſſant Armie led.</l>
+               <l>Whilſt on rocke <hi>Horeb</hi> with erected hand,</l>
+               <l>Bearing the Rod vp to the glorious skie,</l>
+               <l>Twixt <hi>Hur</hi> and <hi>Aron Amrams</hi> ſonne doth ſtand,</l>
+               <l>Whilſt both the hoſts for victorie doe trie.</l>
+               <l>VVhen blades are brandiſh'd and the fight begun,</l>
+               <l>VVarres thundring horror trumpets do proclame,</l>
+               <l>VVith the reflection of the radiant Sun,</l>
+               <l>Seemes to beholders as a generall flame.</l>
+               <pb facs="tcp:173391:40"/>
+               <l>Much courage and dexteritie that day</l>
+               <l>On either part ſufficiently is ſhowne,</l>
+               <l>And on the earth full many a Souldier lay,</l>
+               <l>Thruſting through danger to make good his owne.</l>
+               <l>Heere men might ſee how many a ſtrenuous guide</l>
+               <l>Striueth to make his enemie to bleede,</l>
+               <l>Now the fierce vaward, then the rereward plide,</l>
+               <l>As he perceaueth the Battalians neede.</l>
+               <l>They fight the full day, he the Rod vpheld,</l>
+               <l>But when his ſtrength by long continuing failes,</l>
+               <l>Where as before the <hi>Jſraelites</hi> had queld,</l>
+               <l>The aduerſe proud <hi>Amalakite</hi> preuailes.</l>
+               <l>Whilſt the two Hebrewes prouident of harmes,</l>
+               <l>Setting graue <hi>Moyſes</hi> downe vpon a ſtone,</l>
+               <l>And by their force ſupport his wearied armes,</l>
+               <l>Vntill the foe was laſtly ouerthrowne.</l>
+               <l>
+                  <hi>Jethro</hi> the iuſt to whom report had tolde,</l>
+               <l>Th'atchieuements wrought by his renowned ſonne,</l>
+               <l>That all the world did tributarie holde,</l>
+               <l>By deedes in <hi>Egipt</hi> God by him had done:</l>
+               <l>This good olde man to conſummate their ioyes</l>
+               <l>In happy hower his Sonne is come to ſee,</l>
+               <l>Bringing his wife and his two little Boyes,</l>
+               <l>
+                  <hi>Moyſes</hi> ſent backe in <hi>Midian</hi> ſafe to bee.</l>
+               <l>Which by this time two proper Youths are growne,</l>
+               <l>Bred by their Grandſire with exceeding care,</l>
+               <pb n="69" facs="tcp:173391:40"/>
+               <l>In all the hoſt there hardly could be ſhowne,</l>
+               <l>That with thoſe Boyes for beautie could compare.</l>
+               <l>Such mirth and feaſting as for them was ſeene,</l>
+               <l>For this graue Father and this godly Dame,</l>
+               <l>Vnto this day in <hi>Jſrael</hi> had not beene,</l>
+               <l>Since to kinde <hi>Joſeph</hi> righteous <hi>Jacob</hi> came.</l>
+               <l>The day milde <hi>Moyſes</hi> ſcarſly can ſuffice,</l>
+               <l>To tell this man the troubles they had paſt,</l>
+               <l>The wonders God had acted in their eies,</l>
+               <l>Since they in <hi>Midian</hi> kindly parted laſt.</l>
+               <l>
+                  <hi>Jethro</hi> that mark'd the paines that <hi>Moyſes</hi> tooke</l>
+               <l>In riſing earlie, and in reſting late,</l>
+               <l>That did himſelfe into all cauſes looke,</l>
+               <l>And in his perſon cenſure each debate:</l>
+               <l>This Princely Prieſt a man exceeding wiſe,</l>
+               <l>And long experienc'd in this great affaire,</l>
+               <l>(For at that time fewe States or Monarchies</l>
+               <l>VVhoſe gouernment he could not well declare)</l>
+               <l>Reproues good <hi>Moyſes</hi> in this zealous deede:</l>
+               <l>(Quoth he) me think'ſt thou do'ſt not well in this,</l>
+               <l>The courſe wherein I ſee thou doeſt proceede</l>
+               <l>Trouble to thee, and to the people is.</l>
+               <l>Appoint out Iudges, and inferiour Courts:</l>
+               <l>Twixt the <hi>Plebeians</hi> and thy ſelfe to bee,</l>
+               <l>From them receaue thoſe matters by report,</l>
+               <l>Speake thou to God, and let them ſpeake to thee,</l>
+               <pb facs="tcp:173391:41"/>
+               <l>In things important be thou ſtill in place,</l>
+               <l>In leſſer cauſes leauing them to deale,</l>
+               <l>So may you both your quietnes embrace</l>
+               <l>By an exact and perfect Common-weale.</l>
+               <l>Now when to <hi>Sina</hi> they approched neare,</l>
+               <l>God calls vp <hi>Moyſes</hi> to the mount aboue,</l>
+               <l>And all the reſt commaundeth to forbeare,</l>
+               <l>Nor from the bounds aſſign'd them to remoue.</l>
+               <l>For who thoſe limits looſely did exceede,</l>
+               <l>(VVhich were by <hi>Moyſes</hi> mark'd them out beneath)</l>
+               <l>The Lord had irreuocably decreed</l>
+               <l>VVith darts or ſtones ſhould ſurely die the death.</l>
+               <l>VVhere as the people in a wondrous fright</l>
+               <l>(VVith harts transfixed euen with froſen blood)</l>
+               <l>Beheld their Leader openly in ſight</l>
+               <l>Paſſe to the Lord, where he in glory ſtood.</l>
+               <l>Thunder and lightning led him downe the aire,</l>
+               <l>Trumpets celeſtiall ſounding as he came,</l>
+               <l>VVhich ſtrooke the people with aſtounding feare,</l>
+               <l>Himſelfe inueſted in a ſplendorous flame.</l>
+               <l>
+                  <hi>Sina</hi> before him fearefully doth ſhake,</l>
+               <l>Couered all ouer with a ſmouldring ſmoake,</l>
+               <l>As readie the foundation to forſake</l>
+               <l>On the dread preſence of the Lord to looke.</l>
+               <l>Erect your ſpirits and lend attentiue eare</l>
+               <l>To marke at <hi>Sina</hi> what to you is ſaid,</l>
+               <pb n="71" facs="tcp:173391:41"/>
+               <l>Weake <hi>Moyſes</hi> now you ſhall not ſimplie heare,</l>
+               <l>The Sonne of <hi>Amram</hi> and of <hi>Jacobed,</hi>
+               </l>
+               <l>But he that <hi>Adam</hi> did imparadice,</l>
+               <l>And lent him comfort in his proper blood,</l>
+               <l>And ſaued <hi>Noe</hi> that did the Arke deuiſe,</l>
+               <l>When the olde world elſe periſh'd in the flood.</l>
+               <l>To righteous <hi>Abraham Canaan</hi> frankly lent,</l>
+               <l>And brought forth <hi>Iſaack</hi> ſo extreamely late,</l>
+               <l>
+                  <hi>Jacob</hi> ſo faire and many Children ſent,</l>
+               <l>And raiſ'd chaſt <hi>Ioſeph</hi> to ſo high eſtate.</l>
+               <l>He whoſe iuſt hand plagu'd <hi>Egipt</hi> for your ſake,</l>
+               <l>That <hi>Pharos</hi> power ſo ſcornfully did mocke,</l>
+               <l>Way for his people through the Sea did make,</l>
+               <l>Gaue food from Heauen, and water from the rocke.</l>
+               <l>Whilſt <hi>Moyſes</hi> now in this cloud-couered hill,</l>
+               <l>Full fortie daies his pure aboade did make,</l>
+               <l>VVhilſt that great God in his Almightie will,</l>
+               <l>VVith him of all his Ordinances brake.</l>
+               <l>The Decalogue from which Religion tooke</l>
+               <l>The Being: ſinne and righteouſnes began</l>
+               <l>The different knowledge: and the certaine booke</l>
+               <l>Of teſtimonie betwixt God and man.</l>
+               <l>The Ceremoniall as ludiciall lawes,</l>
+               <l>From his high wiſedom that receau'd their ground,</l>
+               <l>Not to be altred in the ſmalleſt clauſe,</l>
+               <l>But as their Maker wondrouſly profound.</l>
+               <pb facs="tcp:173391:42"/>
+               <l>The compoſition of that ſacred fane,</l>
+               <l>Which as a Symbol curiouſly did ſhewe,</l>
+               <l>What all his ſixe daies workmanſhip containe,</l>
+               <l>Whoſe perfect modell his owne finger drewe.</l>
+               <l>Whoſe abſence thence gaue leaſure to their luſt,</l>
+               <l>Oppugning <hi>Aron,</hi> Idols them to frame,</l>
+               <l>And by their power ſtill ſtrengthen this diſguſt,</l>
+               <l>In him denouncing the Almighties name.</l>
+               <l>A gold-made God how durſt you euer name,</l>
+               <l>For him ſo long had led you from the skie,</l>
+               <l>In ſight of <hi>Sina</hi> crowned with a flame,</l>
+               <l>His glory thence reſiding in your eie?</l>
+               <l>Such things might melt mortalitie to ſee,</l>
+               <l>That euen the very Elements did fright,</l>
+               <l>He that in <hi>Egipt</hi> had perform'd for thee,</l>
+               <l>As made the world amazed at his might.</l>
+               <l>Thy ſoule tranſpierced ne're before thou feld'ſt,</l>
+               <l>But like a Quarrie 't euen claue thy breaſt,</l>
+               <l>Comming from <hi>Sina</hi> when as thou beheld'ſt</l>
+               <l>Th'Elected <hi>Jſrael</hi> kneeling to a Beaſt.</l>
+               <l>Him ſence forſooke, his ſinewes ſtrengthleſſe are,</l>
+               <l>He came ſo much amazed there-withall,</l>
+               <l>The ſtonie tables ſlip'd him vnaware,</l>
+               <l>That with their owne weight brake them in the fall.</l>
+               <l>Downe this proud lump ambitiouſly he flung</l>
+               <l>Into baſe duſt diſſoluing it with fire,</l>
+               <pb n="73" facs="tcp:173391:42"/>
+               <l>That ſince they for varietie did long,</l>
+               <l>They ſhould thereby euen ſurfet their deſire.</l>
+               <l>And ſent the minerall through their hatefull throats,</l>
+               <l>Whence late thoſe horrid blaſphemies did flie</l>
+               <l>On beſtiall figures when they fell to doate</l>
+               <l>In proſtitution to idolatrie.</l>
+               <l>Now when this potion that they lately tooke,</l>
+               <l>This Chimick medicine (made them to prepare)</l>
+               <l>Vpon their beards, and on their boſome ſtooke,</l>
+               <l>He doth their ſlaughter preſently prepare.</l>
+               <l>What's he himſelfe to <hi>Leuie</hi> could alie</l>
+               <l>Before this Calfe not ſinfullie did fall,</l>
+               <l>Girds not his broade blade to his ſinewie thie,</l>
+               <l>When he heares <hi>Moyſes</hi> vnto Armes to call?</l>
+               <l>Killing not him appointed he ſhould ſlay,</l>
+               <l>Though they had ſlep'd in eithers armes before,</l>
+               <l>Though in one wombe they at one burthen lay,</l>
+               <l>Yea when this dead, though that could be no more?</l>
+               <l>You whom not <hi>Egipts</hi> tyranie could wound,</l>
+               <l>Nor Seas, nor rocks could any thing denie,</l>
+               <l>That till this day no terrour might aſtound</l>
+               <l>On the ſharpe points of your owne ſwords to die?</l>
+               <l>When <hi>Moyſes</hi> now thoſe Tables to renewe</l>
+               <l>Of that eſſentiall Deitie doth merit,</l>
+               <l>(Which from his hands he diſſolutely threwe</l>
+               <l>In the deepe anguiſh of his grieued ſpirit.</l>
+               <pb facs="tcp:173391:43"/>
+               <l>When forty daies without all nat'rall food)</l>
+               <l>He on mount <hi>Sina</hi> fixed his aboad,</l>
+               <l>Retaining ſtrength and feruour in his blood,</l>
+               <l>Rap'd with the preſence of that glorious God.</l>
+               <l>Who in his high ſtate whilſt he paſſed by</l>
+               <l>In the cleft rocke that holy man did hide,</l>
+               <l>Leſt he ſhould periſh by his radient eye,</l>
+               <l>When <hi>Moyſes</hi> ſeeing but his glorious ſide</l>
+               <l>Celeſtiall brightnes ceazed on his face,</l>
+               <l>That did the wondring <hi>Jſraelites</hi> amaze,</l>
+               <l>When he returned from that ſouereigne place,</l>
+               <l>His browes encircled with ſplendidious rayes,</l>
+               <l>That their weake ſight beholding of the ſame,</l>
+               <l>He after couer'd from the common eies,</l>
+               <l>Leſt when for anſwere vnto him they came,</l>
+               <l>The luſting people ſhould idolatrize.</l>
+               <l>Might we the muſtred <hi>Jſraelites</hi> admire</l>
+               <l>From Plaines of <hi>Sina</hi> mighty <hi>Moyſes</hi> led,</l>
+               <l>Or elſe to viewe that opulence deſire,</l>
+               <l>To that rich Arke ſo freely offered.</l>
+               <l>The meruailous modell of that rareſt peece</l>
+               <l>Th'ingrauings, caruings, and embroderies tell,</l>
+               <l>The cunning worke and excellent deuice</l>
+               <l>Of neate <hi>Aboliab,</hi> and <hi>Bezaliell.</hi>
+               </l>
+               <l>But we our <hi>Moyſes</hi> ſeriouſlie purſue,</l>
+               <l>And our ſtrong nerues to his high praiſe applie,</l>
+               <pb n="75" facs="tcp:173391:43"/>
+               <l>That through this maze ſhall guide vs as a Clue,</l>
+               <l>And may his vertues abſolutelie trie.</l>
+               <l>Whoſe charge being weary of their weighty Armes,</l>
+               <l>And much offended they had march'd ſo long,</l>
+               <l>As oft diſturbed with their ſterne Alarmes,</l>
+               <l>Suppoſe by <hi>Moyſes</hi> to haue ſuffered wrong.</l>
+               <l>When with the luggage ſuch as lagd behinde,</l>
+               <l>And that were ſet the Cariages to keepe,</l>
+               <l>Gainſt <hi>God</hi> and <hi>Moyſes</hi> grieuouſly repinde,</l>
+               <l>Wanting a little ſuſtinance and ſleepe.</l>
+               <l>Who with their murm'ring moued in his ire,</l>
+               <l>That they ſo ſoone his prouidence miſtruſt,</l>
+               <l>Downe from his full hand flung that forcefull fire,</l>
+               <l>Which in a moment bruſ'd their bones to duſt.</l>
+               <l>Other the mutt'ring <hi>Jſraelites</hi> among</l>
+               <l>When now to <hi>Pharan</hi> hauing come ſo farre</l>
+               <l>For fleſh, fiſh, ſallads, and for fruites doe long,</l>
+               <l>
+                  <hi>Manna</hi> (they ſay) is not for men of warre.</l>
+               <l>Their glut'nous ſtomacks loath that heau'nly bread,</l>
+               <l>vvho with full Chargers hunger here releeues,</l>
+               <l>As by the belly when they ſtrongly fed</l>
+               <l>On harty Garlick and the fleſh of Beeues?</l>
+               <l>Milde man, what fearefullagonie thee vex'd,</l>
+               <l>vvhen thou thy God vnkindly didſt vpbraide?</l>
+               <l>How grieuouſly thy ſuffring ſoule perplex'd,</l>
+               <l>vvhen thou repin'ſt the charge on thee was laide?</l>
+               <pb facs="tcp:173391:44"/>
+               <l>With God to reaſon why he ſhould diſpoſe</l>
+               <l>On thee that burthen heauie to ſuſtaine,</l>
+               <l>As though he did his purpoſes encloſe</l>
+               <l>Within the limmits of mans ſhallow braine.</l>
+               <l>To iudge ſo many marching euery day,</l>
+               <l>That all the fleſh of Forreſt and of flood,</l>
+               <l>(When the wilde Deſarts ſcarſly yeeld them way)</l>
+               <l>Should them ſuffice for competence of food.</l>
+               <l>That thou ſhouldſt wiſh that hand ſo full of dread,</l>
+               <l>Thy lingering breath ſhould ſodainly exſpire,</l>
+               <l>Then that the clamorous multitude ſhould ſpread,</l>
+               <l>Theſe wicked ſlaunders to incite his ire.</l>
+               <l>That God to puniſh whom he ſtill did loue,</l>
+               <l>And in compaſſion of his frailties feare,</l>
+               <l>The ſpirit he gaue him laſtly ſhould remoue</l>
+               <l>To thoſe his burthen that ſhould after beare.</l>
+               <l>O wondrous man who paralel'd thee euer,</l>
+               <l>How large a portion diddeſt thou inherit,</l>
+               <l>That vnto ſeauentie he ſhould it diſſeuer,</l>
+               <l>Yet all be Prophets onely with thy Spirit?</l>
+               <l>VVhen loe a cloud comes ſailing with the winde</l>
+               <l>Vnto theſe Rebels terrible to ſee,</l>
+               <l>That when they now ſome fearefull thing diuin'd,</l>
+               <l>A flight of Quailes perceaued it to bee.</l>
+               <l>A full dayes iourney round about the hoſt,</l>
+               <l>Two Cubits thicknes ouer all they flowe,</l>
+               <pb n="77" facs="tcp:173391:44"/>
+               <l>That when by <hi>Jſrael</hi> he was tempted moſt,</l>
+               <l>His glorie then moſt notablie to ſhowe.</l>
+               <l>The greedie people with the very ſight</l>
+               <l>Are fil'd before they come thereof to taſte,</l>
+               <l>That with ſuch ſurfet gluts their appetite</l>
+               <l>Their queaſie ſtomacks readie are to caſte.</l>
+               <l>Thoſe for groſſe Beefe in Gluttonie did call</l>
+               <l>Thoſe the high'ſt God his powerfulnes to trie,</l>
+               <l>Cloyes with the fowle that fro<g ref="char:cmbAbbrStroke">̄</g> the Heauens do fall,</l>
+               <l>Vntill they ſtuffe the ſtomack by the eie.</l>
+               <l>But whilſt the fleſh betwixt their teeth they chewe,</l>
+               <l>And ſucke the fat ſo delicatly ſweet,</l>
+               <l>(VVith too much plentie that euen fulſome grewe,</l>
+               <l>That lies ſo common troden with their feet.)</l>
+               <l>That God impartiall and ſo rightly iuſt,</l>
+               <l>VVhen he had giuen them more than they deſire,</l>
+               <l>Dulie to puniſh their inſatiate luſt,</l>
+               <l>Poures downe his plagues conſuming as his fire.</l>
+               <l>And with a ſtrong hand violently ſtrake</l>
+               <l>Their blood, diſtempred with luxurious diet,</l>
+               <l>That ſoone the ſores in groynes &amp; arme-pits brake,</l>
+               <l>Thus could the Lord ſcourge their rebellious riot.</l>
+               <l>
+                  <hi>Aron</hi> and <hi>Miriam,</hi> all too much it were</l>
+               <l>For griefe good <hi>Moyſes</hi> readie is to die;</l>
+               <l>But you whom one wombe happily did beare</l>
+               <l>Gainſt your milde Brother needs muſt mutinie.</l>
+               <pb facs="tcp:173391:45"/>
+               <l>O vnkinde <hi>Aaron</hi> when thou fondly fram'dſt</l>
+               <l>That Beaſt-like Idoll bowing <hi>Jſraels</hi> knee,</l>
+               <l>He then thee beg'd, that thou ſo baſely blam'dſt,</l>
+               <l>And did diuert the iudgement due to thee.</l>
+               <l>Immodeſt <hi>Miriam</hi> when the hand of might</l>
+               <l>Left thee with loathſome leaproſie defil'd,</l>
+               <l>Contemn'd and abiect in the vileſt ſight,</l>
+               <l>From the great hoſt perpetually exil'd:</l>
+               <l>When thou hadſt ſpet the vtmoſt of thy ſpight,</l>
+               <l>And for thy ſinne this plague on thee was throwne,</l>
+               <l>He not forſooke thee, but in heauie plight</l>
+               <l>Kneeling to God obtain'd thee for his owne.</l>
+               <l>His wondrous patience euer was applide</l>
+               <l>To thoſe on him that cauſeleſly complaine,</l>
+               <l>Who did with comely careleſnes deride</l>
+               <l>What happy men ſhould euermore diſdaine.</l>
+               <l>When now the Spials for the promiſ'd ſoile,</l>
+               <l>For the twelue Tribes that twelue in number went,</l>
+               <l>Hauing diſcouered forty daies with toile,</l>
+               <l>Safely return'd as happily they went:</l>
+               <l>Bringing the Figs, Pomegranets, and the Grapes,</l>
+               <l>Whoſe verdurous cluſters that with moiſture ſwell,</l>
+               <l>Seeme by the taſte and ſtrangenes of the ſhapes,</l>
+               <l>The place that bare them faithfully to tell.</l>
+               <l>That well expreſſ'd the nature of the earth,</l>
+               <l>So full of liquor and ſo wondrous great,</l>
+               <pb n="79" facs="tcp:173391:45"/>
+               <l>That from ſuch wiſhed fruitfulnes in birth,</l>
+               <l>Suck'd the ſweet marrowe of a plentious teat.</l>
+               <l>But whilſt they ſtand attentiuely to heare</l>
+               <l>The ſundry ſoiles wherein they late had beene,</l>
+               <l>Telling what Giants did enhabit there,</l>
+               <l>What Townes of warre that walled they had ſeene.</l>
+               <l>Of <hi>Anacks</hi> of spring when they come to tell,</l>
+               <l>And their huge ſtature when they let them ſee,</l>
+               <l>And of their ſhapes ſo terrible and fell,</l>
+               <l>Which were ſuppoſ'd the <hi>Titanois</hi> to bee.</l>
+               <l>Their harts ſunck downe, and though the fruits they ſawe</l>
+               <l>By their rare beauty might allure their eies,</l>
+               <l>Yet this report their coward ſoules did awe,</l>
+               <l>And ſo much daunt the forward enterpriſe</l>
+               <l>That they their God doe vtterly refuſe,</l>
+               <l>Againſt iuſt <hi>Moyſes</hi> openly exclame,</l>
+               <l>And were in hand a Captaine them to chuſe</l>
+               <l>To guide them back to <hi>Goſhen</hi> whence they came.</l>
+               <l>Not all the dread of th'<hi>Egiptian</hi> dayes,</l>
+               <l>VVhat by milde <hi>Moyſes</hi> he to paſſe had brought,</l>
+               <l>Nor ſeene by him done at the purple Seas</l>
+               <l>On their vile minds a higher temper wrought.</l>
+               <l>VVhom when of God he beg'd with bloody eies,</l>
+               <l>And againſt Heauen eu'n obſtinatly ſtriue,</l>
+               <l>Obtain'd ſo hardly their immunities,</l>
+               <l>vvhoſe ſinne ſeem'd greater than he could forgiue.</l>
+               <pb facs="tcp:173391:46"/>
+               <l>
+                  <hi>Caleb</hi> and <hi>Joſua</hi> you couragious men,</l>
+               <l>When bats and ſtones againſt your breſts were laid,</l>
+               <l>Oppoſe your ſelues againſt the other ten,</l>
+               <l>That expedition baſely that diſſwade.</l>
+               <l>(Quoth they) to conquer as he did before</l>
+               <l>No more tha<g ref="char:cmbAbbrStroke">̄</g> men: what praiſe his puiſance yeelds,</l>
+               <l>But he whoſe force the very rocks did gore,</l>
+               <l>Can with the ſame hand cleaue their brazen ſheelds.</l>
+               <l>He that foreſawe that this ſhould be our ſeate,</l>
+               <l>And onely knew the goodnes of the ſame,</l>
+               <l>Poſſeſſ'd the place with thoſe that were ſo great</l>
+               <l>For vs to keepe it ſafely till we came.</l>
+               <l>For which the Lord did vowe that not a man</l>
+               <l>At <hi>Sina</hi> muſtred where ſuch numbers were,</l>
+               <l>Should liue to come to fruitfull <hi>Canaan,</hi>
+               </l>
+               <l>Onely thoſe two ſo well themſelues did beare.</l>
+               <l>And for the baſenes of thoſe recreant Spies</l>
+               <l>Whoſe melting minds this impious ſlaunder bred,</l>
+               <l>And the vile peoples incredulities,</l>
+               <l>In that their God ſo ſtrongly promiſed.</l>
+               <l>For fortie dayes diſcouerie of the Land,</l>
+               <l>They fortie yeeres in Wildernes ſhall waſt,</l>
+               <l>Conſum'd with plagues from his impetuous hand,</l>
+               <l>Vntill that age be abſolutely paſt.</l>
+               <l>Which ſcarſly ſpoke, but quickly tooke effect</l>
+               <l>For thoſe ſo colde, and cowardly before,</l>
+               <pb n="81" facs="tcp:173391:46"/>
+               <l>Hearing the cenſure of their baſe neglect,</l>
+               <l>To make his vengeance and their ſinne the more.</l>
+               <l>Entring the Land which <hi>Moyſes</hi> them denies,</l>
+               <l>Their deſp'rate will no better can afford,</l>
+               <l>Offring thoſe lyues they did ſo lightly prize</l>
+               <l>Vnto the vengeance of the Heath'niſh ſword.</l>
+               <l>And in the hoſt new factions daily grewe,</l>
+               <l>When <hi>Chores, Dathan,</hi> and <hi>Abiram</hi> riſe,</l>
+               <l>Two hundred men of ſpeciall note that drewe,</l>
+               <l>Whoſe ſtrength gaue power to their confed'racies.</l>
+               <l>But the vaſt earth incontinently claue,</l>
+               <l>And on the ſodaine hurried them to hell</l>
+               <l>With the ſhrill ſcreame the ſhrieking people gaue,</l>
+               <l>The fainting Hoſt into a feauer fell:</l>
+               <l>The reſt of the Conſpiratours were left</l>
+               <l>(From the firſt's fall enforcing their retire,</l>
+               <l>Of all the ſuccours of the hoſt bereft)</l>
+               <l>Conſum'd to aſhes with Heauens violent fire.</l>
+               <l>And thoſe th'abettors of this vile attempt</l>
+               <l>That did milde <hi>Moyſes</hi> cruelly purſue,</l>
+               <l>From th'others ſinne that could not be exempt,</l>
+               <l>Them with the dreadfull peſtilence he ſlewe.</l>
+               <l>That had not <hi>Aron</hi> when all hope was fled</l>
+               <l>With holy Incenſe their atonement wrought,</l>
+               <l>Thruſting himſelfe twixt th'liuing and the dead,</l>
+               <l>All had to ruine vtterly beene brought.</l>
+               <pb facs="tcp:173391:47"/>
+               <l>Where fourteene thouſand &amp; ſeuen hundred ſanke</l>
+               <l>Vnder the burden of their odious ſinne,</l>
+               <l>Which now was wax'd ſ'inſufferably ranke,</l>
+               <l>It was high time his vengeance ſhould begin.</l>
+               <l>When after this ſo terrible a thing,</l>
+               <l>Now that tryumphant and miraculous wand</l>
+               <l>Brings forth ripe Almonds, ſtrongly witneſſing</l>
+               <l>In <hi>Leuies</hi> Tribe the Prieſthood ſtill to ſtand.</l>
+               <l>With leaues and bloſomes brauely it doth flouriſh,</l>
+               <l>Some budding, ſome as inſtantly but blowne,</l>
+               <l>As when the ſame the naturall rynd did nouriſh,</l>
+               <l>For <hi>Moyſes</hi> ſake ſuch miracles were ſhowne.</l>
+               <l>Forward to <hi>Cadeſh</hi> they their iourney caſt,</l>
+               <l>Where the good <hi>Miriam</hi> makes her lateſt howre,</l>
+               <l>
+                  <hi>Meriam</hi> the faire, the excellent, the chaſt,</l>
+               <l>
+                  <hi>Meriam</hi> that was of womanhood the flowre:</l>
+               <l>Here bids her Brothers louingly adue,</l>
+               <l>vvho at her parting kiſſe her cloſing eies,</l>
+               <l>vvhoſe wondrous loſſe ſufficiently to rue,</l>
+               <l>More is the griefe that teares cannot ſuffice.</l>
+               <l>Moyſtare their eyes, their lips are ſhrunk with heat,</l>
+               <l>Their griefe within, as outward it appeares,</l>
+               <l>Their want of water in that place as great,</l>
+               <l>As it to them is plentifull of teares.</l>
+               <l>They at one inſtant mutinie and mourne,</l>
+               <l>Sorrowes creepe foorth confuſedly together,</l>
+               <pb n="83" facs="tcp:173391:47"/>
+               <l>The teares for her incontinent they turne</l>
+               <l>To words gainſt <hi>Moyſes</hi> that did guide them thither.</l>
+               <l>VVho from the rocke ſtrooke water with the wand,</l>
+               <l>That man and beaſt might plentiouſly maintaine,</l>
+               <l>But he from rocks that fountaines can command,</l>
+               <l>Cannot yet ſtay the fountaines of his braine.</l>
+               <l>Much woe for <hi>Miriam</hi> theſe good men did make,</l>
+               <l>vvhilſt there were two, that might bewaile this one,</l>
+               <l>But two departing for their mutuall ſake,</l>
+               <l>
+                  <hi>Moyſes</hi> remaines to mourne himſelfe alone.</l>
+               <l>
+                  <hi>Aaron</hi> the auncient'ſt of the Hebrew line,</l>
+               <l>Repleate with naturall comlineſſe and grace,</l>
+               <l>(God-like ſo farre as man might be diuine)</l>
+               <l>Endeth his dayes in this predeſt'ned place.</l>
+               <l>VVhich being forewarned to awaite his end,</l>
+               <l>And here the Fate fore-telling him to die,</l>
+               <l>That the good hower doth onely now attend,</l>
+               <l>Will'd to aſcend the mountaine (being nie.)</l>
+               <l>VVith <hi>Eleazer</hi> his deere Childe he goes,</l>
+               <l>Led by milde <hi>Moyſes</hi> as the Lord decreed,</l>
+               <l>To his lou'd Sonne his garments to diſpoſe,</l>
+               <l>Him in the Prieſthood pointed to ſucceed.</l>
+               <l>VVhen turning back to bid them all adiewe,</l>
+               <l>vvho look'd as faſt to bid this Lord farewell,</l>
+               <l>Fountaines of late ſo faſt from rocks not flewe,</l>
+               <l>As the ſalt drops downe their ſad boſomes fell.</l>
+               <pb facs="tcp:173391:48"/>
+               <l>Not the obdurat'ſt, not the ſtonieſt harts,</l>
+               <l>That in deepe ſorrowe melting here forbeares,</l>
+               <l>Thoſe to whom Nature not thoſe drops imparts,</l>
+               <l>Spent what in ſighes the other did in teares.</l>
+               <l>Sated with ſobs, but hungry with his ſight,</l>
+               <l>Their watrie eies him earneſtly purſue,</l>
+               <l>When to diſcerne him they no longer might</l>
+               <l>Where their ſight ends, their ſorrowes doe renewe.</l>
+               <l>Com'n to the top, to the appointed place,</l>
+               <l>His Sonne in all his ornaments inueſted,</l>
+               <l>Which the good <hi>Aron</hi> meekely doth embrace,</l>
+               <l>And vnto him his offices bequeſted.</l>
+               <l>When they the time no longer could adiourne,</l>
+               <l>After embraces and a flood of woes,</l>
+               <l>(Which when one ceaſ'd the other tooke his turne,)</l>
+               <l>From eithers eies that on the other flowes.</l>
+               <l>Now at the laſt point, at the gaſpe of death</l>
+               <l>He whom the whole world hath but ſuch another,</l>
+               <l>Giues vp his lateſt, his moſt bleſſed breath,</l>
+               <l>In the deare armes of his beloued Brother.</l>
+               <l>So wiſely worketh that eternall Being</l>
+               <l>By the ſtill changes of their varying ſtate,</l>
+               <l>(As to the end through the beginning ſeeing)</l>
+               <l>To build the frame of vnauoyded Fate.</l>
+               <l>When thoſe giuen vp to their laſciuious wills,</l>
+               <l>Themſelues in <hi>Midian</hi> wantonnes that waſte,</l>
+               <pb n="85" facs="tcp:173391:48"/>
+               <l>Whoſe fleſhly knowledge ſip'd thoſe ſugred ills,</l>
+               <l>Twenty foure thouſand ſlaughtered at the laſt.</l>
+               <l>Of all that age in <hi>Sina</hi> numbred are,</l>
+               <l>In plaines of <hi>Moab</hi> muſtered then againe,</l>
+               <l>Waſted by time, fire, peſtilence, and warre,</l>
+               <l>Thoſe promiſ'd two, and <hi>Moyſes</hi> did remaine.</l>
+               <l>The time expir'd that they for <hi>Aron</hi> mourn'd,</l>
+               <l>New conqueſt now, new comfort them doth bring,</l>
+               <l>Their former hope ſucceſſiuely return'd,</l>
+               <l>That ſeem'd before ſo ſadly languiſhing.</l>
+               <l>When they the glorious victorie obtaine</l>
+               <l>The Plaines of <hi>Horma</hi> ſcattered all with ſhields,</l>
+               <l>vvhere <hi>Arad</hi> and his <hi>Cananites</hi> are ſlaine,</l>
+               <l>Not the leaſt fight of many glorious fields.</l>
+               <l>VVith <hi>Sehon's</hi> ſlaughter ſeconded againe,</l>
+               <l>And <hi>Ogs</hi> great fall of a Gigantick ſtrength,</l>
+               <l>vvhoſe bed of iron faſh'on'd to containe</l>
+               <l>In breadth foure Cubits, doubling it in length.</l>
+               <l>The liuing remnant of the mighty race,</l>
+               <l>Of big-bon'd <hi>Anack</hi> terrible and dred,</l>
+               <l>vvhich long time batning in that fertile place,</l>
+               <l>Grewe like the fat ſoile wherein they were bred.</l>
+               <l>Not Poets fictions of the <hi>Phlaegrian</hi> fields,</l>
+               <l>vvhereas the Giants vp to Heauen would clime,</l>
+               <l>Heaping on mountaines not ſuch wonder yields,</l>
+               <l>As did the men that liued in that time.</l>
+               <pb facs="tcp:173391:49"/>
+               <l>And fiue proud Kings fell in their recreant flight,</l>
+               <l>Before arm'd <hi>Jſrael</hi> on the <hi>Midian</hi> plaine,</l>
+               <l>
+                  <hi>Zur, Hur,</hi> and <hi>Eui,</hi> men of wondrous might,</l>
+               <l>
+                  <hi>Reba</hi> and <hi>Rekem</hi> valiantly ſlaine.</l>
+               <l>And as his ſtrength cruſh'd mighty Kings to duſt,</l>
+               <l>And cleft the helms that thu<g ref="char:cmbAbbrStroke">̄</g>der proof were thought,</l>
+               <l>That hand that help'd the<g ref="char:cmbAbbrStroke">̄</g>, ſcurg'd their impious luſt,</l>
+               <l>vvhen his high iudgement to peruert they ſought.</l>
+               <l>And ſent thoſe Serpents (with their firie ſtings,)</l>
+               <l>With inflamations that their fleſh did ſwell,</l>
+               <l>Sharply to ſcourge their truſtleſſe murmurings,</l>
+               <l>That ſtill in infidelitie did dwell.</l>
+               <l>Rare in this creature was this wondrous might,</l>
+               <l>That ſhould effect the nature of the fire,</l>
+               <l>Yet to recure the ſorance by the ſight,</l>
+               <l>Sicknes might ſeeme the remedie t'admire.</l>
+               <l>Onely by mettall miracles to worke,</l>
+               <l>That ſerpents ſhape, the ſerpents hurt ſhould heale,</l>
+               <l>To ſhew in him the myſteries that lurke,</l>
+               <l>And being ſo ſtrange, as ſtrangely doth reueale.</l>
+               <l>That the forg'd figure of ſo vile a thing</l>
+               <l>Should the diſeaſe ſo preſently remotie,</l>
+               <l>Onely by th'eye a remedie to bring,</l>
+               <l>Deepe ſearching Magick leaueth to approue.</l>
+               <l>As <hi>Balaams</hi> beaſt did <hi>Balacks</hi> haſt delay,</l>
+               <l>And the full purpoſe of the Prophet brake,</l>
+               <pb n="87" facs="tcp:173391:49"/>
+               <l>When he beheld the Angell by the way,</l>
+               <l>Burſt out from beaſt, and to his Maiſter ſpake.</l>
+               <l>Whoſe execration able to aſtound</l>
+               <l>The ſunne, when he his Sommers height did boaſt,</l>
+               <l>And with a word could inſtantly confound</l>
+               <l>The world, were it a congregated hoſt.</l>
+               <l>He whoſe wiſe lips could Oracles compile,</l>
+               <l>And iudgements irreuocable did paſſe,</l>
+               <l>Should be confounded by the thing moſt vile,</l>
+               <l>By that baſe creature the dull worthleſſe Aſſe,</l>
+               <l>Ruling his mouth as with a Riders bit,</l>
+               <l>Bidden by <hi>Balaack</hi> to denounce their fall:</l>
+               <l>Doth all his dreadfull Minaces acquit,</l>
+               <l>Sounding their bleſſing and their enemies fall.</l>
+               <l>When this milde man that onely did remaine,</l>
+               <l>Of thoſe from <hi>Egipt</hi> that the Lord did bring,</l>
+               <l>Which he in Iuſtice ſundrie wayes had ſlaine,</l>
+               <l>For their falſe worſhip and their murmuring.</l>
+               <l>Since he remiſſe at <hi>Meriba</hi> was prou'd,</l>
+               <l>And there his zeale not ardently expreſt,</l>
+               <l>The Lord did ſweare (though him he dearely lou'd)</l>
+               <l>He ſhould not come to <hi>Canaan</hi> as the reſt.</l>
+               <l>And now approching <hi>Abaris</hi> (the place)</l>
+               <l>From whence he might that promiſ'd Country ſee,</l>
+               <l>(So much the Lord good <hi>Moyſes</hi> pleaſ'd to grace)</l>
+               <l>But there his dayes muſt conſummated bee.</l>
+               <pb facs="tcp:173391:50"/>
+               <l>When this great Prophet zealouſlie had bleſſ'd,</l>
+               <l>Each ſeu'rall Tribe with a particular good,</l>
+               <l>Whoſe parting, them with ſorrowe ſo oppreſſ'd,</l>
+               <l>That ſhedding teares their eies ſhed drops of blood.</l>
+               <l>To <hi>Nebo</hi> ſeated admirablie hie,</l>
+               <l>(The Spirit prepares him ſafely to retire)</l>
+               <l>Which thruſts his head into the cloudie skie,</l>
+               <l>
+                  <hi>Piſga</hi> ſo proudly thither dare aſpire.</l>
+               <l>
+                  <hi>Piſga</hi> the height of <hi>Abaris,</hi> and this</l>
+               <l>The height of <hi>Piſga</hi> ouer all doth ſtand,</l>
+               <l>That as the eye of mightie <hi>Abaris</hi>
+               </l>
+               <l>Suruayeth the imparalelled Land.</l>
+               <l>Where goodly <hi>Gilead</hi> vnto him he ſhowes</l>
+               <l>As farre as euer he could looke to <hi>Dan,</hi>
+               </l>
+               <l>The length and breadth that euery way it goes,</l>
+               <l>Till her browe kiſſe the calme <hi>Mediteran.</hi>
+               </l>
+               <l>where the ſweet <hi>South</hi> layes forth her ſwelling breſt,</l>
+               <l>vvith a pleaſ'd eye he ſilently ſuruay'd,</l>
+               <l>To that faire Citie whoſe high Towers doe reſt</l>
+               <l>Vnder the Palme trees more delicious ſhade.</l>
+               <l>When this meeke man approching to his death,</l>
+               <l>In death eu'n pleaſ'd faire <hi>Canaan</hi> to beholde,</l>
+               <l>vvhilſt he had vſe of his expiring breath,</l>
+               <l>Thus his laſt farewell mildly doth enfolde.</l>
+               <l>
+                  <hi>Jſrael</hi> (quoth he) deare <hi>Jſrael,</hi> now adue,</l>
+               <l>
+                  <hi>Moyſes</hi> no more is, that your Leader was,</l>
+               <pb n="89" facs="tcp:173391:50"/>
+               <l>
+                  <hi>Joſua</hi> and <hi>Caleb</hi> none but onely you,</l>
+               <l>Of the laſt age muſt ouer <hi>Jordan</hi> paſſe.</l>
+               <l>Th'<hi>Egiptian</hi> horrours yet 'twas I did ſee,</l>
+               <l>And through thoſe ſtrange calamities did wade,</l>
+               <l>And <hi>Jſraels</hi> charge impoſed was on mee,</l>
+               <l>When they (but then) had ſcarſlie learn'd to dade.</l>
+               <l>Fortie two iourneyes haue I ſtraitlie paſt</l>
+               <l>Since firſt this glorious Pilgrimage begun,</l>
+               <l>In wrath or mercie where as firſt or laſt,</l>
+               <l>Some wondrous thing hath happily beene done.</l>
+               <l>M'immortall Maker that ſo oft haue ſeene</l>
+               <l>(That God of wonder:) theſe complaints not boot,</l>
+               <l>In yonder fields ſo delicate and greene,</l>
+               <l>That may not ſet my miſerable foot.</l>
+               <l>Thus leaning back againſt the riſing Clieue,</l>
+               <l>Raiſing his faint hands to the hopefull skies,</l>
+               <l>Meeke as the morning neuer ſeene to ſtriue,</l>
+               <l>Great'ſt of the Prophets the good <hi>Moyſes</hi> dies.</l>
+               <l>An hundred twentie hardly paſſed yeares,</l>
+               <l>His naturall vigour no whit did aſſwage,</l>
+               <l>His eie as bright, his bodie then appeares,</l>
+               <l>As in the height and Sommer of his age.</l>
+               <l>Who being diſſolu'd the Angels did interr</l>
+               <l>Neere to <hi>Bethpeor</hi> in the valied ground,</l>
+               <l>But yet ſo ſecret kept his Sepulcher,</l>
+               <l>That it by mortall neuer ſhould be found.</l>
+               <pb facs="tcp:173391:51"/>
+               <l>Leſt that his people (if the place were knowne)</l>
+               <l>(Seeing by him the myracles were done,</l>
+               <l>That euer to Idolatrie were prone,)</l>
+               <l>Vnto his bones a worſhipping ſhould runne.</l>
+               <l>One that God grac'd ſo many ſundrie wayes,</l>
+               <l>No former age hath mentioned to bee.</l>
+               <l>Ariued at the period of his dayes</l>
+               <l>The future time in <hi>Jſrael</hi> ſhall not ſee.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:173391:51"/>
+            <pb facs="tcp:173391:52"/>
+            <pb facs="tcp:173391:52"/>
+            <pb facs="tcp:173391:53"/>
+            <pb facs="tcp:173391:53"/>
+         </div>
+      </body>
+   </text>
+</TEI>
